@@ -1,0 +1,4295 @@
+##su root sjtu
+##select 978-0-616-91636-0
+Invalid
+##modify -name="Ingram" -author="RebeccaBrooks" -keyword="expelled|agar|shoelace|catwalk|morn" -price=332.37
+Invalid
+##select 978-0-9698834-5-6
+Invalid
+##modify -name="inherent" -author="KelseyMelton" -keyword="cassock|humpty" -price=383.58
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -author="AdamSalazar" -keyword="vacua"
+Invalid
+##useradd D_EivAIVC8mapcxNZ7NYmetX5o jOOkKjKt4yRZj1EFGo 1 JessicaByrd
+Invalid
+##delete D_EivAIVC8mapcxNZ7NYmetX5o
+Invalid
+##passwd root 9mBzx9YkeOL6tfzsEZXq4T1zUJq6t
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -keyword="morn|Mauritius|Asilomar|humpty|penultimate" -price=128.78
+Invalid
+##passwd root Ci9V3
+Invalid
+##import 11 403.47
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -name="chianti" -author="MichaelChambers" -keyword="Bradley|mocha"
+Invalid
+##useradd ocmkWk2EsEhSshsNPAzH 0VH9GyxnqLg2Cggsebyo 3 DanielStafford
+Invalid
+##import 7 211.50
+Invalid
+##import 17 207.25
+Invalid
+##delete ocmkWk2EsEhSshsNPAzH
+Invalid
+##useradd fBOJvrla9DH BLXLWYuozpDvAMe9IWDEg6 1 JamesTaylor
+Invalid
+##useradd r8RCoS2Po AUTBRuofYkd14rYZBnudIL 3 Mr.AaronPratt
+Invalid
+##useradd VLO9mLa48LPRQwVEiwl9 TB 1 JenniferMurray
+Invalid
+##delete r8RCoS2Po
+Invalid
+##logout
+Invalid
+##register 0WUpeNGU33yG8Y NKRFQb_eFthi7_obDh TeresaEllis
+##su VLO9mLa48LPRQwVEiwl9 TB
+##show -author="KelseyMelton"
+Invalid
+##logout
+Invalid
+##su VLO9mLa48LPRQwVEiwl9 TB
+##buy 978-0-9698834-5-6 1
+Invalid
+##show -keyword="mocha"
+Invalid
+##buy 978-0-616-91636-0 1
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -name="Estonia" -author="TylerHarris" -keyword="eastbound" -price=90.26
+Invalid
+##show -keyword="cassock"
+Invalid
+##buy 978-0-616-91636-0 1
+Invalid
+##show -keyword="eastbound"
+Invalid
+##show -keyword="eastbound"
+Invalid
+##select 978-0-9698834-5-6
+Invalid
+##modify -name="pizzicato"
+Invalid
+##show -keyword="eastbound"
+Invalid
+##select 978-1-4041-3603-8
+Invalid
+##modify -name="dressy" -author="SaraJones" -keyword="catwalk" -price=190.41
+Invalid
+##logout
+Invalid
+##su VLO9mLa48LPRQwVEiwl9 TB
+##select 978-0-616-91636-0
+Invalid
+##modify -name="thwart"
+Invalid
+##show -ISBN=978-0-616-91636-0
+Invalid
+##logout
+Invalid
+##select 978-1-4041-3603-8
+Invalid
+##modify -keyword="morn|pursuit|experiment|Abe" -price=428.17
+Invalid
+##su fBOJvrla9DH BLXLWYuozpDvAMe9IWDEg6
+##select 978-0-05-845759-9
+Invalid
+##modify -name="vitrify" -author="ShaneHarvey" -keyword="cassock|shoelace|vacua|morn" -price=111.60
+Invalid
+##show -ISBN=978-0-9698834-5-6
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -author="AdamSalazar" -keyword="agar|cassock"
+Invalid
+##select 978-0-05-845759-9
+Invalid
+##modify -author="RebeccaBrooks" -keyword="conduit|Bradley|mocha"
+Invalid
+##show -author="AdamSalazar"
+Invalid
+##show -keyword="mocha"
+Invalid
+##passwd fBOJvrla9DH BLXLWYuozpDvAMe9IWDEg6 DfLpjh2YqP9_MFZGT75RSKlusJSh
+Invalid
+##select 978-1-206-97584-2
+Invalid
+##modify -name="chivalrous" -author="BarbaraPerez" -keyword="intervene|eastbound" -price=426.06
+Invalid
+##show -keyword="cassock"
+Invalid
+##select 978-0-05-845759-9
+Invalid
+##modify -name="burley" -author="KellyPrice"
+Invalid
+##logout
+Invalid
+##su VLO9mLa48LPRQwVEiwl9 TB
+##show -name="dressy"
+Invalid
+##logout
+Invalid
+##su 0WUpeNGU33yG8Y NKRFQb_eFthi7_obDh
+##logout
+##register VJ3nFQgWgG7F3lp Ej2_0dyQ3GoHEsfHI CrystalJohnson
+##select 978-1-206-97584-2
+Invalid
+##modify -name="Loomis" -keyword="Brillouin|conduit|pursuit" -price=410.77
+Invalid
+##register ogCH11fjd_0H 6uumHlREHyu9OQd1jCd9jlwoAIgQ2 MonicaJones
+##su VLO9mLa48LPRQwVEiwl9 TB
+##buy 978-1-206-97584-2 1
+Invalid
+##logout
+Invalid
+##register Mj4Gr75RlJ d RaymondWilson
+##select 978-0-9698834-5-6
+Invalid
+##modify -name="lest" -author="JasonPerez" -keyword="intervene|Brillouin" -price=339.10
+Invalid
+##register YMF8VSytZjGfLOhPh Wz4FTnjBcDbsr_LUGkywYo NatalieWhite
+##select 978-0-10-348182-1
+Invalid
+##modify -name="cowpox" -author="NicolePitts" -keyword="Abe|cassock|penultimate|expelled|Wheller" -price=87.03
+Invalid
+##su VLO9mLa48LPRQwVEiwl9 TB
+##buy 978-1-206-97584-2 1
+Invalid
+##logout
+Invalid
+##select 978-0-235-93640-4
+Invalid
+##modify -name="Joliet" -author="BarbaraWells" -keyword="Abe|Wheller|intervene|pursuit|agar" -price=418.76
+Invalid
+##select 978-1-206-97584-2
+Invalid
+##modify -name="frustrate" -author="KelseyMelton" -price=4.88
+Invalid
+##register SdwJq1IdRmPH 8L SydneySmith
+##su fBOJvrla9DH DfLpjh2YqP9_MFZGT75RSKlusJSh
+##logout
+Invalid
+##su YMF8VSytZjGfLOhPh Wz4FTnjBcDbsr_LUGkywYo
+##show -ISBN=978-0-616-91636-0
+
+##passwd YMF8VSytZjGfLOhPh Wz4FTnjBcDbsr_LUGkywYo K89tdbLkIJjyva9p00P4
+##buy 978-1-206-97584-2 1
+Invalid
+##select 978-0-05-845759-9
+Invalid
+##modify -name="shuttlecock" -price=87.93
+Invalid
+##show -ISBN=978-0-9698834-5-6
+
+##buy 978-1-4041-3603-8 1
+Invalid
+##buy 978-1-206-97584-2 1
+Invalid
+##show -ISBN=978-1-4041-3603-8
+
+##buy 978-0-05-845759-9 1
+Invalid
+##buy 978-1-4041-3603-8 1
+Invalid
+##buy 978-1-206-97584-2 1
+Invalid
+##buy 978-1-4041-3603-8 1
+Invalid
+##show -keyword="agar"
+
+##passwd fBOJvrla9DH DfLpjh2YqP9_MFZGT75RSKlusJSh lI5h7Bvh
+Invalid
+##logout
+##su YMF8VSytZjGfLOhPh K89tdbLkIJjyva9p00P4
+##passwd YMF8VSytZjGfLOhPh K89tdbLkIJjyva9p00P4 STczOEA
+##select 978-0-616-91636-0
+Invalid
+##modify -name="unction" -author="ShaneHarvey" -keyword="morn|intervene|catwalk|combinate|eastbound" -price=72.39
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##passwd YMF8VSytZjGfLOhPh STczOEA fIVGN5XZOd5hcSxyWX58zhRdNcBre
+##show -author="KelseyMelton"
+
+##select 978-1-206-97584-2
+Invalid
+##modify -name="note" -author="ShaneHarvey" -keyword="Abe"
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##show -name="unction"
+
+##show -name="shuttlecock"
+
+##show -name="unction"
+
+##buy 978-0-05-845759-9 1
+Invalid
+##buy 978-1-206-97584-2 1
+Invalid
+##buy 978-0-616-91636-0 1
+Invalid
+##select 978-0-8194-8758-2
+Invalid
+##modify -name="Lindberg" -author="KennethMcpherson" -keyword="uterine|morn|expelled" -price=495.65
+Invalid
+##show -author="ShaneHarvey"
+
+##select 978-0-562-77090-0
+Invalid
+##modify -name="housebreak" -author="ChadLong" -keyword="penultimate|Wheller|tunic|expelled" -price=127.55
+Invalid
+##select 978-1-4129-1999-9
+Invalid
+##modify -name="perish" -author="Mr.ChristopherRush" -keyword="uterine|Jan|Mauritius|tunic|eastbound" -price=314.93
+Invalid
+##logout
+##register H o8wC0HponfGSH9P JohnWard
+##selec
+Invalid
+##modify -author="JenniferWi
+Invalid
+##su SdwJq1IdRmPH 8L
+##logout
+##select 978-1-4041-3603-8
+Invalid
+##modify -na
+Invalid
+##su H o8wC0HponfGSH9P
+##show -author="ShaneHarvey"
+
+##select 978-1-206-97584-2
+Invalid
+##modify -author="StevenPhillips"
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -name="surtout" -author="KaylaKennedy" -keyword="morn|Jan|ca
+Invalid
+##buy 978-1-4129-1999-9 1
+Invalid
+##buy 978-0-05-845759-9 1
+Invalid
+##select 978-0-9698834-5-6
+Invalid
+##mo
+Invalid
+##logout
+##su VLO9mLa48LPRQwVEiwl9 TB
+##buy 978-1-346-13905-0 1
+Invalid
+##show -ISBN=978-1-4041-3603-8
+Invalid
+##show -keyword="tunic"
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -name="consort" -keyword="pursuit|Abe|Asilomar"
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##logout
+Invalid
+##select 978-0-8250-2290-6
+Invalid
+##modify -name="freestone" -author="GaryFarley" -keyword="tunic" -price=384.92
+Invalid
+##su VLO9mLa48LPRQwVEiwl9 TB
+##select 978-0-8194-8758-2
+Invalid
+##modify -name="postgraduate" -author="Mrs.
+Invalid
+##passwd VLO9mLa48LPRQwVEiwl9 TB ZMRzKf4
+Invalid
+##passwd fBOJvrla9DH sZ 42E9GOQLsDR19o4DfSX0tNn97
+Invalid
+##show -ISBN=978-1-206-97584-2
+Invalid
+##select 978-0-85812-055-6
+Invalid
+##modify -name="psychophysic" -author="KellyAnderson" -keyword="uterine|cassock" -price=391.29
+Invalid
+##show -name="fissure"
+Invalid
+##buy 978-1-346-13905-0 1
+Invalid
+##show -name="unction"
+Invalid
+##select 978-1-07-231617-6
+Invalid
+##modify -name="apprehensive" -author="StevenPhillips" -keyword="expelled|penultimate|sudorific|pursuit|mocha" -pri
+Invalid
+##select 978-0-425-23413-6
+Invalid
+##modify -name="splash" -author="JohnHenson" -keyword="Asilomar" -price=453.64
+Invalid
+##buy 978-0-85812-055-6 1
+Invalid
+##show -name="consort"
+Invalid
+##select 978-0-7699-8803-0
+Invalid
+##modify -name="insubstantial" -author="MeghanPorter" -keyword="combinate|
+Invalid
+##show -author="KellyAnderson"
+Invalid
+##logout
+Invalid
+##su H o8wC0HponfGSH9P
+##select
+Invalid
+##modify -name="technology" -author="TammySnyder" -keyword="tunic|
+Invalid
+##buy 978-0-616-91636-0 1
+Invalid
+##select 978-1-203-45021-2
+Invalid
+##modify -name="glom" -keyword="shoelace|pursuit" -price=141.77
+Invalid
+##select 978-0-8194-8758-2
+Invalid
+##modify -name="liturgic" -
+Invalid
+##show -author="KellyPrice"
+
+##
+##logout
+##su Mj4Gr75RlJ d
+##select 978-0-236-66343-9
+Invalid
+##modify -name="benz
+Invalid
+##buy 978-0-85812-055-6 1
+Invalid
+##select 978-1-274-59487-7
+Invalid
+##modify -name="pitman" -author="DavidPrice" -keyword="humpty" -price=154.99
+Invalid
+##buy 978-0-562-77090-0 1
+Invalid
+##logout
+##register WYiuhvi3x
+Invalid
+##su fBOJvrla9DH lI5h7Bvh
+##select 978-1-206-97584-2
+Invalid
+##modify -name="Tenney" -price=19.81
+Invalid
+##passwd fBOJvrla9DH lI5h7Bvh lKxddyKovXP7tm
+Invalid
+##show -ISBN=978-1-206-97584-2
+Invalid
+##logo
+Invalid
+##su 0WUpeNGU33yG8Y NKRFQb_eFthi7_obDh
+##show -ISBN=978-1-206-97584-2
+
+##select 978-0-495-56786-8
+Invalid
+##modify -name="flatulent" -author="EricaMitchell" -keyword="shoelace|cassock|Asilomar|uterine" -price=415.30
+Invalid
+##buy 978-0-236-66343-9 1
+Invalid
+##buy 978-1-206-97584-2 1
+Invalid
+##logout
+##select 978-1-78250-288-3
+Invalid
+##mod
+Invalid
+##su Mj4Gr75RlJ d
+##logout
+##register nhBV 7hX2f4
+Invalid
+##select 978-0-236-66343-9
+Invalid
+##modify -name="soothe" -au
+Invalid
+##register YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT DEh JohnRamirez
+##su ogCH11fjd_0H 6uumHlREHyu9OQd1jCd9jlwoA
+Invalid
+##buy 978-0-236-66343-9 1
+Invalid
+##show -author="StevenPhillips"
+Invalid
+##show -keyword="conduit"
+Invalid
+##show -author="JohnHenson"
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##logout
+Invalid
+##select 978-0-495-56786-8
+Invalid
+##modify -name="Wadsworth" -keyword="Abe|experiment|Bradley|pursuit"
+Invalid
+##select 978-1-71838-343-2
+Invalid
+##modify -name="psyllium" -author="MeghanPorter" -keyword="eastbound|tunic|cassock" -price=284.34
+Invalid
+##select 978-0-8194-87
+Invalid
+##modify -name="entomology" -price=44.43
+Invalid
+##su 0WUpeN
+Invalid
+##show -keyword="Asilomar"
+Invalid
+##show -author="BryanAndrade"
+Invalid
+##
+##modify -name="alveolar" -author="HeatherGoodman" -keyword="shoelace" -price=172.83
+Invalid
+##show -author="KaylaKennedy"
+Invalid
+##passwd 0WUpeNGU33yG8Y NKRFQb_eFthi7_obDh WR1v_VBW4GNUpAkqdHDKRW
+##logout
+Invalid
+##register 5ORMe8DxwTxdPUQF9XL p3veC LisaLe
+##su SdwJq1IdRmPH 8L
+##buy 978-1-203-45021-2 1
+Invalid
+##buy 978-1-346-13905-0 1
+Invalid
+##logout
+##su WYiuhvi3xwJJbyWqahEUWWzOU 7kF28ma29oafpi8
+##buy 978-0-9698834-5-6 1
+Invalid
+##buy 978-1-274-59487-7 1
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -author="MichaelChambers" -keyword="experiment|sudorific|uterine|vacua|catwalk" -price=492.41
+Invalid
+##select 978-0-600-40095-0
+Invalid
+##modify -name="starfish" -author="RebeccaBrooks" -keyword="penultimate|Mauritius|Bradley|eastbound" -price=312.84
+Invalid
+##buy 978-0-600-40095-0 1
+Invalid
+##logout
+Invalid
+##su H o8wC0HponfGSH9P
+##select 978-0-05-845759-9
+Invalid
+##modify -name="Dawson" -author="SarahAnderson"
+Invalid
+##show -ISBN=978-0-85812-055-6
+
+##buy 978-1-203-45021-2 1
+Invalid
+##select 978-1-56546-655-5
+Invalid
+##modify -name="ox" -author="BryanAndrade" -keyword="experiment" -price=73.79
+Invalid
+##sh
+Invalid
+##select 978-0-7882-8019-1
+Invalid
+##modify -name="vertigo" -au
+Invalid
+##select 978-1-274-59487-7
+Invalid
+##modify -author="StevenPhillips" -price
+Invalid
+##logout
+##su H o8wC0HponfGSH9P
+##select 978-0-7882-8019-1
+Invalid
+##modify -author="BrianMorgan" -keyword="conduit|cassock"
+Invalid
+##buy 978-0-425-23413-6 1
+Invalid
+##show -ISBN=978-0-495-56786-8
+
+##show -name="Tenney"
+
+##logout
+##register x G0Fsr9_RasdGAhLRpQ99bd3 JenniferLopez
+##register OX0GVOCdpUC6vuai _bXWbNwwFbV5ObeJ PaulD
+##register 4mTpRnZkbLEDf1MRPsk402wXa2 M RobertMartinez
+##su OX0GVOCdpUC6vuai _bXWbNwwFbV5ObeJ
+##select 97
+Invalid
+##modify -name="lecher" -author="ChadLong" -keyword="expelled|sudorific|humpty" -price=
+Invalid
+##passwd OX0GVOCdpUC6vuai _bXWbNwwFbV5ObeJ EXBIV8eIE2
+##logout
+##su VJ3nFQgWgG7F3lp Ej2_0dyQ3GoHEsfHI
+##select 978-0-600-40095-0
+Invalid
+##modify 
+Invalid
+##select 978-0-393-10289-5
+Invalid
+##modify -name="juju" -author="StephanieWilliamson" -keyword="experiment|Brillouin|eastbound" -price=16.57
+Invalid
+##select 978-0-7614-1611-1
+Invalid
+##modify -name="bookcase" -author="BryanAndrade" -keyword="experiment|Bradley" -price=102.97
+Invalid
+##logout
+##register Qs1FQevDY3tzDQCeQaSaEIAl fo_PKLDD NathanCole
+##su Qs1FQevDY3tzDQCeQaSaEIAl fo_PKLDD
+##select 978-0-236-66343-9
+Invalid
+##modify -keyword="penul
+Invalid
+##buy 978-1-4041-3603-8 1
+Invalid
+##buy 978-0-85812-055-6 1
+Invalid
+##select 978-0-17-638042-7
+Invalid
+##modify -name="biharmonic" -author="JosephVazquez" -keyword="stratosphere|intervene" -price=37.75
+Invalid
+##passwd Qs1FQevDY3tzDQCeQaSaEIAl fo_PKLDD kkdjdjMVxut8KrL
+##buy 978-0-17-638042-7 1
+Invalid
+##passwd Qs1FQevDY3tzDQCeQaSaEIAl kkdjdjMVxut8KrL hw_7J7jsCH0YoqdIlV8xcj1
+##show -keyword="tunic"
+
+##show -name="apprehensive"
+
+##select 978-0-393-10289-5
+Invalid
+##modify -name="they'
+Invalid
+##logout
+##register Vvb2lbthNNNAZzo2V9yracdT4CwYO AybA5D3WcVM5YG9EV JoelJoh
+##su ogCH11fjd_0H 6uumHlREHyu9OQd1jCd9jlwoAIgQ2
+##show -ISBN=978-0-7882-8019-1
+
+##select 978-1-206-97584-2
+Invalid
+##modify -price=260.59
+Invalid
+##passwd ogCH11fjd_0H 6uumHlREHyu9OQd1jCd9jlwoAIgQ2 LlcfOfeGErcgVPrtORjk
+##buy 978-1-203-45021
+Invalid
+##buy 978-0-05-845759-9 1
+Invalid
+##show -ISBN=978-1-346-13905-0
+
+##buy 978-1-274-59487-7 1
+Invalid
+##logout
+##su 5ORMe8DxwTxdPUQF9XL p3veC
+##select 978-1-82868-117-6
+Invalid
+##modify -name="ah" -author="ChelseaGlenn" -keyword="Jan|Mauritius|agar|civil" -price=304.43
+Invalid
+##select 978-0
+Invalid
+##modify -name="filmstrip" -author="KellyAnderson"
+Invalid
+##show -name="liturgic"
+
+##buy 978-0-350-01355-4 1
+Invalid
+##buy 978
+Invalid
+##select 978-0-15-682331-9
+Invalid
+##modify -name="fortune" -author="JonathanHull"
+Invalid
+##buy 978-0-236-66343-9 1
+Invalid
+##select 978-1-85836-595-4
+Invalid
+##modify -name="torture" -author="ChadLong" -keyword="Abe|Jan|expelled" -price=280.10
+Invalid
+##show -author="ShaneHarvey"
+
+##buy 978-1-07-231617-6 1
+Invalid
+##logout
+##register 281K Tv_GZxwL2Nz RichardJones
+##su YMF8VSytZjGfLOhPh fIVGN5XZOd
+Invalid
+##logout
+Invalid
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##buy 978-0-600-40095-0 1
+Invalid
+##show -author="ChadLong"
+
+##buy 978-1-85836-595-4 1
+Invalid
+##select 978-0-425-23413-
+Invalid
+##modify -author="AdamSalazar" -keyword="ca
+Invalid
+##logout
+##su Qs1FQevDY3tzDQCeQaSaEIAl hw_7J7jsCH0YoqdIlV8xcj1
+##select 978-0-19-224839-8
+Invalid
+##modify -name="cease" -author="BeverlySimmons" -keyword="vacua|betrothal|humpty|morn" -price=245.92
+Invalid
+##select 978-1-72139-155-4
+Invalid
+##modify -name="riddance" -author="AdamSalazar" -keyword="Jan|catwalk" -price=305.10
+Invalid
+##show -author="SherryHorn"
+
+##select 978-1-379-55315-1
+Invalid
+##modify -name="ascent" -author="Dr.SharonPowell" -keyword="civil|agar|sudori
+Invalid
+##show -keyword="uterine"
+
+##buy 978-1-346-13905-0 1
+Invalid
+##show 
+
+##buy 978-0-7699-8803-0 1
+Invalid
+##select 978-0-681-95993-4
+Invalid
+##modify -name="Sunday" -author="Ba
+Invalid
+##show -ISBN=978-0-15-682331-9
+
+##logout
+##select 978-0-17-638042-7
+Invalid
+##modify -keyword="expelled|civi
+Invalid
+##su YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT DEh
+##select 978
+Invalid
+##modify -keyword="e
+Invalid
+##passwd YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT DEh dHr9_oSsEqLL
+##buy 978-1-07-231617-6 1
+Invalid
+##logout
+##su YCyXFM6fiu
+Invalid
+##show -name="Tenney"
+Invalid
+##logout
+Invalid
+##su WYiuhvi3xwJJbyWqahEUWWzOU 7kF28ma29oafpi8
+##select 978-1-346-13905-0
+Invalid
+##modify -author="DavidHenderson" -keyword="humpty|agar|catwalk"
+Invalid
+##logout
+Invalid
+##select 978-1-83934-333-9
+Invalid
+##modify -name="Greene" -author="Mr.ChristopherRush" -keyword="humpty|expelled|vacua" -price=379.70
+Invalid
+##su fBOJvrla9DH lKxddyKovXP7tm
+##select 978-0-19-224839-8
+Invalid
+##modify -name="deaf" -author="SarahAnderson
+Invalid
+##show -author="JohnHenson"
+Invalid
+##select 978-0-430-48932-3
+Invalid
+##modify -name="nolo" -author="Mr.ChristopherRush" -keyword="expelled|Jan|Abe|intervene" -price=33.42
+Invalid
+##show -keyword="experiment"
+Invalid
+##buy 978-0-17-638042-7 1
+Invalid
+##buy 978-1-379-55315-1 1
+Invalid
+##show -ISBN=978-0-616-91636-0
+Invalid
+##show -author="KellyAnderson"
+Invalid
+##logout
+Invalid
+##su root Ci9V3
+##select 978-1-203-45021-2
+Invalid
+##modify -name="hydrochemistry" -keyword="e
+Invalid
+##logout
+Invalid
+##select 978-0-9698834-5-6
+Invalid
+##modify -author="JasonPerez" -keyword="uterine|Brillouin" -price=422.63
+Invalid
+##su nhBV 7hX2f4MTlNchQH2y9v7xQ2IlH2MJ
+##show -author="KellyAnderson"
+Invalid
+##select 978-0-600-40095-0
+Invalid
+##modify -author=
+Invalid
+##show -ISBN=978-1-203-45021-2
+Invalid
+##select 978-0-15-682
+Invalid
+##modify -author="BarbaraWells" -keyword="kidnapping|t
+Invalid
+##show -ISBN=978-1-203-45021-2
+Invalid
+##select 
+Invalid
+##modify -name="buttermilk"
+Invalid
+##buy 978-0-681-95993-4 1
+Invalid
+##logout
+Invalid
+##su YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT dHr9_oSsEqLL
+##logout
+##su OX0GVOCdpUC6vuai EXBIV8eIE2
+##logou
+Invalid
+##select 978-1-64019-812-8
+Invalid
+##modify -name="larg
+Invalid
+##register q8e_D5doUNCLr kWB7tyFIZhaxSvBh8Q_x_LnCa JessicaBernard
+##select 978-0-425-23413-6
+Invalid
+##modify -name="Hilton" -price=360.73
+Invalid
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##select 978-1-379-55315-1
+Invalid
+##modify -author="HeatherGoodman" -keyword="mocha|humpty|kidnapping" -price=397.90
+Invalid
+##logout
+##su ogCH11fjd_0H LlcfOfeGErcgVPrtORjk
+##select 978-0-616-91636-0
+Invalid
+##modify 
+Invalid
+##select 978-0-03-742812-1
+Invalid
+##modify -nam
+Invalid
+##select 978-0-576-68843-7
+Invalid
+##modify -name="upwind" -author="JohnHenson" -keyword="experiment|Jan|catwalk" -price=139.70
+Invalid
+##logout
+##select 978-0-7614-1611-1
+Invalid
+##modify -name="pseudo" -author="BryanAndrade" -keyword="Bradley|morn|civil|conduit|combinate" -price=400.06
+Invalid
+##su x G0Fsr9_RasdGAh
+Invalid
+##select 978-1-379-55315-1
+Invalid
+##modify -name="bellflower" -author="RachelChen" -keyword="experiment|hu
+Invalid
+##buy 978-0-05-845759-9 1
+Invalid
+##select 978-0-430-48932-3
+Invalid
+##modify -name="solar" -author="SaraJones" -price=377.19
+Invalid
+##show -name="Irishman"
+
+##select 978-0-9741721-6-3
+Invalid
+##modify -name=
+Invalid
+##select 978-1-75853-960-8
+Invalid
+##modify -name="appell
+Invalid
+##passwd 4mTpRnZkbLEDf1MRPsk402wXa2 pxGN5qs ORtKsT
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##l
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -name="liken" -author="KennethMcpherso
+Invalid
+##su Vvb2lbthNNNAZzo2V9yracdT4CwYO AybA5D3WcVM5YG9EV
+##passwd Vvb2lbthNNNAZzo2V9yracdT4CwYO AybA5D3WcVM5YG9EV ltHsrTXAZZRd
+##show -author=
+Invalid
+##logout
+##register L1xj6kBR3wgusEc1lMQB36 aeMLQq0momX9nkP AndreaPowell
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##select 978-0-19-224839-8
+Invalid
+##modify -name="incinerate" -author="RachelChen" -keyw
+Invalid
+##show -keyword="intervene"
+
+##logout
+##select 978-1-386-162
+Invalid
+##modify -name="board" -author="BeverlySimmons" -keyword="penultimate|shoelace|humpty|Bradley|Jan" -price=233.44
+Invalid
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##select 978-0-295-56878-2
+Invalid
+##modify -name="ellipsoidal" -author=
+Invalid
+##show -ISBN=978-1-4041-3603
+
+##show -name="rheology"
+
+##logout
+##select 978-1-85836-595-4
+Invalid
+##modify -name="s
+Invalid
+##select 978-0-17-638042-7
+Invalid
+##modify
+Invalid
+##select 978-0-563-15874-5
+Invalid
+##modify -name=
+Invalid
+##select 978-0-495-56786-8
+Invalid
+##modify -name="serine" -author="NicolePitts" -keyword="expelled|catwalk|kidnapping" -price=159.73
+Invalid
+##register pAxOmfo BwTpWoaeEmat1 CoryThompson
+##select 978-1-05-790726-9
+Invalid
+##modif
+Invalid
+##su pAxOmfo BwTpWoaeEmat1
+##buy 978-0-7614-1611-1 1
+Invalid
+##logout
+##su ogCH11fjd_0H LlcfOfeGErcgVPrtORjk
+##buy 978-0-8194-8758-2 1
+Invalid
+##select 978-1-343-14151-3
+Invalid
+##modify -name="mutt" -author="SarahAnderson" -keyword="Bradley|sudorific|experiment" -price=256.54
+Invalid
+##show -keyword="catwalk"
+
+##buy 978-0-600-4009
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##passwd ogCH11fjd_0H LlcfOfeGErcgVPrtORjk KS9lxMW_2d
+##buy 978-0-05-845759-9 1
+Invalid
+##show -keyword="experime
+
+##buy 978-1-4129-1999-9 1
+Invalid
+##buy 978-0-85812-055-6 1
+Invalid
+##select
+Invalid
+##modify -name="cauliflower" -author="AdamSalazar" -price=84.42
+Invalid
+##
+##logout
+##register PpptjawWKtwBP9y
+Invalid
+##su YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT dHr9_oSsEqLL
+##logout
+##su SdwJq1IdRmP
+Invalid
+##show -ISBN=978-0-7614-1611-1
+
+##show -author="EricaMitchell"
+
+##buy 978-1-4041-3603-8 1
+Invalid
+##bu
+Invalid
+##select 978-1-85836-595-4
+Invalid
+##modify -name="south
+Invalid
+##logout
+##register 00yyfh6BhGTPOelDg M7cRg0Q ElizabethTucker
+##select 978-0-
+Invalid
+##modify -author="ChelseaGlenn" -keyword="experiment|morn|Brillouin" -price=384.97
+Invalid
+##register gjE5_lmP606qfZSwX1g4N5CBh pO0LJT1YFfj2_9izkSHrT JenniferKelley
+##su root Ci9V3
+##select 978-0-7699-8803-0
+Invalid
+##modify -name="cockleshell" -author="JenniferWilkerson" 
+Invalid
+##logout
+Invalid
+##su root Ci9V3
+##select 978-0-9698834-5-6
+Invalid
+##modify -author="Andre
+Invalid
+##useradd E2NI fxmexvDJ 3 KyleCalderon
+Invalid
+##logout
+Invalid
+##select
+Invalid
+##modify -keyword="Wheller|tunic|humpty|conduit" -price=352.82
+Invalid
+##su 00yyfh6BhGTPOelDg M7cRg0Q
+##logout
+##re
+Invalid
+##register hTwAxHJEyB_UxnsmOMc3UXYRA qPV9Kehq7H_BA4jnaSFB5ZTqq4 AllisonMarti
+##register _JkhQ 2MK0rmBABVc2Gb7y0NWPU0uh StefanieEvans
+##select 978-0-236-66343-9
+Invalid
+##modify -author="EricWard" -price=322.63
+Invalid
+##register aKIcC1TUK9pbLc xka7166o3Uk2oI BrianReyes
+##select 978-1-304-85808-5
+Invalid
+##modify -name="screwball" -author="KaylaKennedy" -price=416.69
+Invalid
+##select 978-0-9741721-6-3
+Invalid
+##modi
+Invalid
+##su VJ3nFQgWgG7F3lp Ej2_0dyQ3GoHEsfHI
+##buy 978-1-82868-117-6 1
+Invalid
+##buy 978-0-7614-1611-1 1
+Invalid
+##select 978-0-17-638042-7
+Invalid
+##modify -name="alone" -author="KellyPrice" -keyword="combinate|cassock|pursuit|Asilomar|morn" -price=212.46
+Invalid
+##logout
+##su WYiuhvi3xwJJbyWqahEUWWzOU 7kF28ma29oafpi8
+##show -keyword="Brillouin"
+Invalid
+##select 978-0-7930
+Invalid
+##modify -name="linoleum" -author="Step
+Invalid
+##select 978-0-600-40095-0
+Invalid
+##modify -name="charm" -author="MissTashaZimmerman" -keyword="vacua|combinate"
+Invalid
+##passwd WYiu
+Invalid
+##select 978-0-589-62284-8
+Invalid
+##modify -name="bimolecular" -author="Mrs.SabrinaHowardPhD" -keyword=
+Invalid
+##buy 978-0-7699-8803-0 1
+Invalid
+##buy 978-0-8194-8758-2 1
+Invalid
+##logout
+Invalid
+##su YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT dHr9_oSsEqLL
+##select 978-0-7930-1557-3
+Invalid
+##modify -name="agricultural" -keyword="tunic|eastbound|experiment"
+Invalid
+##buy 978-0-425-23413-6 1
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##log
+##register LD2A_mD3RVOEcwhPpVQzIZDUc xJ2 BethWallace
+##su 5ORMe8DxwTxdPUQF9XL p3veC
+##show -keyw
+Invalid
+##show -keyword="combinate"
+
+##buy 978-0-295-56878-2 1
+Invalid
+##passwd 5ORMe8DxwTxdPUQF9XL p3veC uUewZ
+##show -author="DavidHenderson"
+
+##buy 978-0-295-56878-2 1
+Invalid
+##logout
+##su VLO9m
+Invalid
+##show -name="cauliflower"
+
+##logout
+##register pTrhPFNPOpES8qJIBqCFXRIGA tOouO16R JanetMeyers
+##select 
+Invalid
+##modify -name="haddock" 
+Invalid
+##select 978-1-72139-155-4
+Invalid
+##modify -name="Johann" -author="JonathanHull" -keyword="vacua|expelled|catwalk|morn" -price=172.16
+Invalid
+##su E2NI fxmexvDJ
+##useradd LGBj9j6m4iY5oyr1Up2kS 8yI2DDOpUT 1 DeniseMcfarland
+Invalid
+##select 978-1-4041-3603-8
+Invalid
+##import 5 10
+Invalid
+##import 17 896.29
+Invalid
+##useradd IWr 7CargDPugUgDT_xKfJy 1 AndrewThompson
+Invalid
+##useradd N4_oqv SvSzz3KKkQ 1 CalvinLiu
+Invalid
+##useradd DqLF0vSfbtih TpNgMinAcp 1 MichaelLo
+Invalid
+##useradd qUG osMwyHq3ILsib_3 1 RobertYoung
+Invalid
+##select 978-0-622-56021-2
+Invalid
+##
+##import 12 2421.51
+Invalid
+##useradd UFMh7utfWYtxQ518fqiIi7 uKpUsy1v 1 AnthonyPayne
+Invalid
+##useradd 
+Invalid
+##select 978-0-7045-1108-8
+Invalid
+##modify
+Invalid
+##select 978-1-07-231617-6
+Invalid
+##modify -name="dexterity" -keyword="vacua|uterine|tunic|expelled|civil"
+Invalid
+##logout
+Invalid
+##
+##modify -name="Gilmore" -author="Mrs.SabrinaHowardPhD" -keyword="sudorific|Wheller|catwalk|kidnapping" -price=317.56
+Invalid
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##show -keyword="conduit
+
+##buy 978-0-05-845759-9 1
+Invalid
+##select 978-0-495-56786-8
+Invalid
+##modify -name="sen" -keyword="cassock|expelled|betrothal" -price=192.51
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -name="farsighted" -author="RachelChen" -price=366.19
+Invalid
+##logout
+##register WW3K bFzxgJMfjcHj_MszCXbax2Wr3LH MichaelHo
+##register R0P8CVIkYe4F7TtyHrwQOW jm10TF5bE9w43R7APxu5K4 JenniferWong
+##su pAxOmfo BwTpWoaeEmat1
+##logout
+##su hTwAxHJEyB_UxnsmOMc3UXYRA 
+Invalid
+##select 978-1-228-58595-1
+Invalid
+##modify -name="omega" -author="
+Invalid
+##show -name="cockleshell"
+Invalid
+##logout
+Invalid
+##select 978-1-343-14151-3
+Invalid
+##modify -na
+Invalid
+##register M0chBGj6EId57ykTmF65W61ekZCAOi 6DjCooS2CKgmTRM RussellCastillo
+##register dXLWu6L 300i2rKXaB86NIgPCsdXuH2JIUcU JacquelineMorgan
+##select 978-1-346-13905-0
+Invalid
+##modify -name="sift" -author="
+Invalid
+##su SdwJq1IdRmPH 8L
+##buy 978-1-274-59487-7 1
+Invalid
+##buy 978-1-72139-155-4 1
+Invalid
+##select 9
+Invalid
+##modify -name="deal" -keyword="vacua|kidnapping|cassock" -price=138.73
+Invalid
+##buy 978-1-274-59487-7 1
+Invalid
+##logout
+##su gjE5_lmP606qfZSwX1g4N5CBh pO0LJT1YFfj2_9izkSHrT
+##logout
+##select 978-1-379-55315-1
+Invalid
+##modify -name="Raymond" -author="Mr.ChristopherRush" -price=1
+Invalid
+##select 978-0-425-2341
+Invalid
+##modify -name="obduracy" -author="MichaelChambers" -price=18.63
+Invalid
+##su ogCH11fjd_0H KS9lxMW_2d7ay
+Invalid
+##show -keyword="catwalk"
+Invalid
+##buy 978-0-295-56878-2 1
+Invalid
+##select 978-1-253-56727-4
+Invalid
+##modify -name="bien" -
+Invalid
+##logout
+Invalid
+##su R0P8CVIkYe4F7TtyHrwQOW jm10TF5bE9w43R7APxu5K4
+##passwd 0WUpeNGU33yG8Y WR1v_VBW4GNUpAkqdHDKRW wB1HS5XBKAQb
+##show -author="JasonPerez"
+
+##show -name="dressy"
+
+##logout
+##register vczW
+Invalid
+##register El1F1o4xHI7oOMPZiJhjl7iN MmLnOOowDO CarolThomas
+##select 978-1-78068-655-4
+Invalid
+##modify -name="marke
+Invalid
+##register PFghnHX_vDS05dlbzEH4waYWa ZYU5kLEgrHpEc IanRamos
+##select 978-0-351-92603-7
+Invalid
+##modify -name="crave" -author="GregoryGomez" -keyword="mocha|Asilomar" -price=236.67
+Invalid
+##su N4_oqv SvSzz3KKkQ
+##select 978-0-07-906979-5
+Invalid
+##modify -name="bless" -author="Mrs.SabrinaHowardPhD" -keywor
+Invalid
+##show -author="RachelChen"
+Invalid
+##select 978-1-03-033954-4
+Invalid
+##mo
+Invalid
+##show -author="RachelChen"
+Invalid
+##passwd N4_oqv SvSzz3KKkQ GgtDhck24dwwUK7O6SWrbpmiSsEsb
+Invalid
+##buy 978-1-03-033954-4 1
+Invalid
+##logout
+Invalid
+##re
+Invalid
+##select 978-1-304-85808-5
+Invalid
+##modify -name="guilty" -author="JosephVazquez" -keyword="Bradley|mocha|betrothal|civil" -price=328.91
+Invalid
+##select 978-1-56553-964-8
+Invalid
+##mo
+Invalid
+##su 00yyfh6BhGTPOelDg M7cRg0Q
+##show -keyword="cassock"
+
+##logout
+##su L1xj6kBR3
+Invalid
+##logout
+Invalid
+##register soEwpfYqhPQ 1VDZEexQC_ HollyLloyd
+##su root Ci9V3
+##delete vczWo6TOBizWmYYMSjSWSP9
+Invalid
+##select 978-
+Invalid
+##modify -name="enumerable" -author="Dr.SharonPowell"
+Invalid
+##useradd WV_XpCXUDJsXwW9TNm0TdR2hk OGEe0sgsF_I7bQ9AGObvfc 1 WayneNorris
+Invalid
+##logout
+Invalid
+##su hTwAxHJEyB_UxnsmOMc3UXYRA qPV9Kehq7H_BA4jnaSFB5ZTqq4
+##select 978-0-586-38245-5
+Invalid
+##modify -name="intimal" -author="Dr.S
+Invalid
+##passwd hTwAxHJEyB_UxnsmOMc3UXYRA qPV9Kehq7H_BA4jnaSFB5ZTqq4 LwL
+##show -ISBN=978-0-622-56021-2
+
+##select 978-0-540-72394-2
+Invalid
+##modify -name="Fisk" -author="BeverlySimmons" -keyword="mocha|sudorific|civil
+Invalid
+##show -ISBN=978-0-616-91636-0
+
+##buy 978-0-576-68843-7 1
+Invalid
+##select 978-0-17-470646-5
+Invalid
+##modify -name="bravura" -author="GregoryGomez" -keyword="sudorific|shoelace|Brillouin" -price=214.93
+Invalid
+##buy 978-1-72139
+Invalid
+##passwd hTwAxHJEyB_UxnsmOMc3U
+Invalid
+##select 978-1-4139-8531-3
+Invalid
+##modify -name="Mozart" -author="KellyPrice" -keyword="humpty|penultimate|sh
+Invalid
+##show -author="BarbaraPerez"
+
+##logout
+##register Sk4ycRRL3swJ8 bvNrhz0 Tif
+##select 978-0-622-56021-2
+Invalid
+##modify -name="redden" -keyword="vacua|combinate" -price=226.31
+Invalid
+##su YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT dHr9_oSsEqLL
+##logout
+##su El1F1o4xHI7oOMPZiJhjl7iN MmLnOOowDO
+##show -author="JenniferWilkerson"
+
+##logout
+##register mh5IV m HollyThompson
+##su El1F
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##show -author="EricaMitchell"
+Invalid
+##logou
+Invalid
+##su LD2A_mD3RVOEcwhPpVQzIZDUc xJ2
+##logout
+##select 978-0-85812-055-6
+Invalid
+##modify -author="VeronicaTran" -keyword="tunic"
+Invalid
+##su Mj4Gr75RlJ d
+##logout
+##su pT
+Invalid
+##logout
+Invalid
+##register yb_Fnep0PAo6O2z2GbP1nr5qr d
+Invalid
+##su root Ci9V3
+##select 978-0-03-742812-1
+Invalid
+##modify -name="panoply" -author="GregoryGomez" -keyword="tunic|mocha"
+Invalid
+##logout
+Invalid
+##su soEwpfYqhPQ 1VDZEexQC_
+##passwd soEwpfYqhPQ 1VDZEexQC_ fKM7IxjwoEa
+##show -name="bellflower"
+
+##show -author="Mr.ChristopherRush"
+
+##show -ISBN=978-1-07-231617-6
+
+##logout
+##
+##select 978-1-64665-651-6
+Invalid
+##modify -name="ethanol" -author="MeghanPorter" -keyword="tunic|civil|morn" -price=471.18
+Invalid
+##select 978-1-4041-3603-8
+Invalid
+##su VJ3nFQgWgG7F3l
+Invalid
+##show -author="GregoryGomez"
+Invalid
+##passwd VJ3nFQgWgG7F3lp Ej2_0dyQ3GoHEsfHI hwe
+##select 978-0-07-906979-5
+Invalid
+##modify -author="AdamSalazar"
+Invalid
+##show -keyword="uterine"
+Invalid
+##logout
+Invalid
+##su 5ORMe8DxwTxdPUQF9XL uUewZ
+##show -name="ellipsoidal"
+
+##select 978-1-85836-595-4
+Invalid
+##modify -name="lynch" -author="BarbaraWells" -keywo
+Invalid
+##select 978-0-13-560388-8
+Invalid
+##modify -name="sinew" -author="JonathanHull
+Invalid
+##show -keyword="catwalk"
+
+##
+##select 978-1-07-231617-6
+Invalid
+##modify -nam
+Invalid
+##su DqLF0vSfbtih TpNgMinAcp
+##logout
+##su IWr 7CargDPugUgDT_xKfJy
+##logout
+Invalid
+##su TO QTtIzknsVMMA2sOUgt1tznvDkhdz
+##show -ISBN=978-1-4041-3603-8
+Invalid
+##select 978-1-4226-5879-6
+Invalid
+##modify -name="hydro" -author="KennethM
+Invalid
+##show -ISBN=978-1-4226-5879-6
+Invalid
+##logout
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##m
+Invalid
+##su E2NI fxmexvDJ
+##logout
+Invalid
+##su gjE5_lmP606qfZSwX1g4N5CBh pO0LJT1YFfj2_9izkSHr
+Invalid
+##select 978-0-15-682331-9
+Invalid
+##modify -author="ShaneHarvey"
+Invalid
+##logout
+Invalid
+##su OX0GVOCdpUC6vuai EXBIV8eIE2
+##select 978-1-4041-3603-8
+Invalid
+##modify -author="BarbaraWells" -price=184.70
+Invalid
+##buy 978-0-586-38245-5 1
+Invalid
+##buy 978-0-85812-055-6 1
+Invalid
+##select 978-0-929750-01-9
+Invalid
+##modify -name="Irrawaddy" -author="AngelaHerrera" -keyword="tunic|agar|combinate|Abe" -price=63.13
+Invalid
+##logout
+##su 281K Tv_GZxwL2Nz
+##logout
+##su H o8wC0HponfGSH9P
+##select 978-1-203-45021-2
+Invalid
+##modi
+Invalid
+##select 978-0-616-91636-0
+Invalid
+##modify -keyword="pursuit|penultimate|humpty" -price=425.72
+Invalid
+##logout
+##register CVLPX9f bpRFBVItch1zkcpkYSiE4NwAPXo MelanieFlores
+##
+##su x G0Fsr9_RasdGAhLRpQ99bd3
+##select 978-1-116-14056-9
+Invalid
+##mod
+Invalid
+##logout
+##select 978-0-589-62284-8
+Invalid
+##modify -autho
+Invalid
+##select 978-0-8194-8758-2
+Invalid
+##modify -author="JonathanHarmon" -price=207.28
+Invalid
+##regist
+Invalid
+##select 978-1-319-99848-6
+Invalid
+##modify -name="taproot" -author="MichaelChambers" -keyword="civil|Mauritius|ex
+Invalid
+##su SdwJq1IdRmPH 8L
+##logout
+##select 978-0-421-61603-5
+Invalid
+##modify -name="Delaney" -author="BarbaraPerez" -keyword="Wheller|Bradley|Jan|ca
+Invalid
+##su ogCH11fjd_0H KS9lxMW_2d7ay
+Invalid
+##logout
+Invalid
+##select 978-0-9698834-5-6
+Invalid
+##modify -author="TylerHarris" -keyword="mocha|sho
+Invalid
+##su qUG osMwyHq3ILsib_3
+##logout
+Invalid
+##select 978-1-203-45021-2
+Invalid
+##modify -name="blackjack" -author="StevenPhillips" -pr
+Invalid
+##register IgYbYkR71qbHUx OG9XiR
+Invalid
+##select 978-0-7614-1611-1
+Invalid
+##modify -author="JonathanHull" -keyword="Jan" -price=259.84
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -name="inter
+Invalid
+##select 978-0-9741721-6-3
+Invalid
+##modify -name="bam" -author="Sha
+Invalid
+##su 8L29J6IJ8kPgAzwJijFRC m
+##buy 978-1-304-85
+Invalid
+##select 978-0-7614-1611-1
+Invalid
+##modify -name="Bridgetown
+Invalid
+##logout
+Invalid
+##su 00y
+Invalid
+##show -ISBN=978-0-430-48932-3
+Invalid
+##buy 978-1-253-56727-4 1
+Invalid
+##select 978-0-692-49126-3
+Invalid
+##modify -name="cl
+Invalid
+##buy 978-0-7882-8019-1 1
+Invalid
+##buy 978-1-346-13905-0 1
+Invalid
+##passwd R0P8CVIkYe4F7Tt
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##passwd 00yyfh6BhGTPOelDg M7cRg0Q GI_13
+##passwd 00yyfh6BhGTPOelDg GI_13h1XKXpRe5tc _HF_ZitBiN4t5feN2
+Invalid
+##show -author="BarbaraPerez"
+Invalid
+##select 978-0-7882-8019-1
+Invalid
+##modify -name
+Invalid
+##logout
+Invalid
+##select 978-0-07-906979-5
+Invalid
+##modify -name="incursion" -price=97.42
+Invalid
+##register FIwP61q2iaham_Q8z_ v7mMDCiRK MelissaMerritt
+##select 978-1-65485-418-8
+Invalid
+##modify -name="consist" -author="AdamSalazar" -keyword="sudorific|shoelace|morn" -price=113.19
+Invalid
+##select 978-0-521-26550-8
+Invalid
+##modify -name="Krause" -author="VeronicaTran" -keyword="combinate|Asilomar" -price=359.03
+Invalid
+##register 1UnoMScX8 4 JoannaHaney
+##su SdwJq1IdRmPH 8L
+##select 978-0-7930-1557-3
+Invalid
+##modify -name="bleak" -keyword="experiment|civil|vacua|Brillouin|Mauritius"
+Invalid
+##select 978-1-39
+Invalid
+##modify -name="intrude" -author="TammySnyder" -keyword="vacua|kidnapping|Mauritius" -price=312.19
+Invalid
+##buy 978-0-681-95993-4 1
+Invalid
+##logout
+##regist
+Invalid
+##register w1ePZ7QxRA i_t0G0xH2OV31U MeganScott
+##su WV_XpCXUDJsXwW9TNm0TdR2hk OGE
+##show -author="StephanieWilliamson"
+Invalid
+##se
+Invalid
+##modify 
+Invalid
+##show -name="cauliflower"
+Invalid
+##select 978-1-177-84820-6
+Invalid
+##modify -name="twiddle" -author="DavidHend
+Invalid
+##logout
+Invalid
+##register E_yyN RXFSpFpVTwAPOIEypA8VgulPZ_GZ16 HeatherJohnson
+##register uphH0Y3HO1bB9Jc N
+Invalid
+##select 978-0-7010-7642-9
+Invalid
+##modify -name="Dusenberg" -author="TylerHarris
+Invalid
+##select 978-0-485-28593-2
+Invalid
+##modify -name="new" -author="RichardPierceDDS" -keyword="stratosphere" -price=249.10
+Invalid
+##select 978-0-526-64610-4
+Invalid
+##modify -name="gazelle" -author="Jo
+Invalid
+##register StCDG7VY2tfs0slG8z 05PzIob0gBr GailHarris
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##buy 978-1-56546-655-5 1
+Invalid
+##buy 978-1-228-58595-1 1
+Invalid
+##show -ISBN=978-1-72139-155-4
+
+##buy 978-0-9698834-5-6 1
+Invalid
+##buy 978-0-236-66343-9 1
+Invalid
+##select 978-0-562-77090-0
+Invalid
+##modify -name="terry" -author="JasonPerez" -price=134.10
+Invalid
+##show -ISBN=978-0-622-56021-2
+
+##selec
+Invalid
+##modify -name="remand" -author="ChadLong" -keyword="tunic|sudorific|Mauritius|conduit"
+Invalid
+##buy 978-1-379-55315-1 1
+Invalid
+##sho
+Invalid
+##logout
+##select 978-0-301-98842-9
+Invalid
+##modify -name="important" -author="HeatherGoodman" -keyword="Asilomar|combinate|kidnapping|morn" -price=227.92
+Invalid
+##su E2NI fxmexvDJ
+##useradd r2r _frsAyQo7UThxmjCcI 1 Mr.BenjaminThomas
+Invalid
+##logout
+Invalid
+##select 978-0-7699-8803-0
+Invalid
+##modify -name="s
+Invalid
+##select 978-1-85001-596-3
+Invalid
+##modify -
+Invalid
+##register 54zZvud2BEFl iU6bjo5yO MaryAyala
+##register etnU7C2EfGyqY7qg_n LCKD_mNVTsuGp03ICWY4E GloriaWard
+##select 978-0-9698834-5-6
+Invalid
+##modify -name="hypophyseal" -author="AndreaAnderson" -keyword="Asilomar|uterine|sudorif
+Invalid
+##su WYiuhvi3xwJJbyWqahEUWWzOU oQhssmiorCPLjjasw95LjZ
+##sele
+Invalid
+##modify -name="wisp" -author="Mrs.SabrinaHowardPhD" -price=308.18
+Invalid
+##buy 978-0-586-38245-5 1
+Invalid
+##se
+Invalid
+##modify -name="kite" -author="RebeccaBrooks" -keyword="combinate|kidnapping|mocha|agar" -price=194.87
+Invalid
+##show -keyword="civil"
+Invalid
+##buy 978-0-562-77090-0 1
+Invalid
+##show -name="rheology"
+Invalid
+##buy 978-1-65638-835-3 1
+Invalid
+##buy 978-0-430-48932-3 1
+Invalid
+##buy 978-0-495-56786-8 1
+Invalid
+##logout
+Invalid
+##su WW3K bFzxgJMfjc
+Invalid
+##show -author="JenniferWilke
+Invalid
+##select 978-0-622-56021-2
+Invalid
+##modify -author="Dr.SharonPowell" -keyword="pursuit|Wheller|eastbound|intervene"
+Invalid
+##show -author="Mrs.SabrinaHowardPhD"
+Invalid
+##logout
+Invalid
+##su StCDG7VY2tfs0slG8z 05PzIob0g
+Invalid
+##buy 978-0-692-49126-3 1
+Invalid
+##selec
+Invalid
+##modify -name="network" -author="KennethMcpherson" -keyword="Bradley|eastbound|Brillouin|agar" -price=340.27
+Invalid
+##select 978-1-4138-4973-8
+Invalid
+##modify -name="residue" -author="RichardPierceDDS" -keyword="humpty|conduit|expelled|sudorific|penultimate" -price=161.15
+Invalid
+##show -ISBN=978-0-236
+Invalid
+##passwd StCDG7VY2tfs0slG8z 05PzIob0gBr I2gz4zf8LQF5HS85QmMT6
+##show -name="ah"
+Invalid
+##select 978-0-9741721-6-3
+Invalid
+##modify -n
+Invalid
+##show -name="ridicule"
+Invalid
+##logout
+Invalid
+##
+##logout
+Invalid
+##su k1Bnoufi502Fg0_0cuknRbe t9liTPM0FKWk0vxoU
+##select 978-1-304-85808-5
+Invalid
+##mod
+Invalid
+##select 978-1-4226-5879
+Invalid
+##modify -name="Ernest" -author="ChadLong" -price=30.58
+Invalid
+##buy 978-1-65638-835-3 1
+Invalid
+##select 
+Invalid
+##modify -name="parasitic" -auth
+Invalid
+##select 978-0-295-56878-2
+Invalid
+##modify -name="mescaline" -author="JasonPerez" -keyword="co
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##select 978-0-495-56786-8
+Invalid
+##modify -price=54.40
+Invalid
+##select 978-1-203-45021-2
+Invalid
+##modify -author="Dr.SharonPowell" -
+Invalid
+##show -keyword="Brillouin"
+Invalid
+##select 978-0-7157-8453-2
+Invalid
+##modify -name="Linus" -author="AdrianLawrence" -keyword="vacua|Asilomar" -price=461.14
+Invalid
+##show -ISBN=978-0-85812-055-6
+Invalid
+##buy 978-1
+Invalid
+##select 978-0-8106-7527-8
+Invalid
+##modify -name="minimax" -author="AdrianLawrence" -keyword="tunic|Brillouin|Abe" -price=78.92
+Invalid
+##show -author="Da
+Invalid
+##buy 978-0-589-62284-8 1
+Invalid
+##buy 978-0-929750-01-9 1
+Invalid
+##buy 978-1-2
+Invalid
+##show -name="bleak"
+Invalid
+##logout
+Invalid
+##register A2ZU6z_k7BbJijCDfppXcUUCI 6w2NJLvM TimothyAnderson
+##register zSlrRvT77GjOmR7WezZ MSvSb3MktAkjs0s7lRbV40UmsWT PeggyHolloway
+##select 978-0-17-638042-7
+Invalid
+##modify
+Invalid
+##register NX_93hVZNLEiBtntFBqCnPmMDdO HfpPUdD9r2XvB52 TeresaVasquez
+##su 281K Tv_GZxwL2Nz
+##logout
+##select 978-0-07-906979-5
+Invalid
+##modify -name="inapplicable" -author="BarbaraWells" -keyword="shoelace|morn" -price=272.16
+Invalid
+##su PFghnHX_vDS05dlbzEH4waYWa ZYU5kLEgrHpEc
+##show -author=
+Invalid
+##logout
+##select 978-
+Invalid
+##modify -name="race" -author="KaylaKennedy" -keyword="agar" -price=234.92
+Invalid
+##select 978-0-394-38278-4
+Invalid
+##modify -name="Beirut" -author="RichardPierceDDS" -keyword="conduit|Asilomar|Brillouin|combinate" -price=198.96
+Invalid
+##sel
+Invalid
+##modify -name="cowboy" -author="RebeccaBrooks" -price=115.70
+Invalid
+##select 978-1-277-98800-
+Invalid
+##modify -name="pornography" -auth
+Invalid
+##select 978-1-01-842905-2
+Invalid
+##modify -name="echo" -author="ChadLong" -keyword="morn" -price=341.37
+Invalid
+##su A2ZU6z_k7BbJijCDfppXcUUCI 6w2NJLvM
+##select 978-0-13-560388-8
+Invalid
+##modify -name="citywide" -author="JohnHenson" -ke
+Invalid
+##logout
+##select 978-0-545-72479-1
+Invalid
+##modify -name="groupoid" -author="MissTashaZimmerman" -keyword="humpty|experiment" -price=215.11
+Invalid
+##su PFghnHX_vDS05dlbzEH4waYWa ZYU5kLEgrHpEc
+##show -keyword="Jan"
+
+##show -ISBN=978-
+
+##show -ISBN=978-0-8194-8758-2
+
+##passwd 1UnoMScX8 zopfaTKqzPx0w
+Invalid
+##show -ISBN=978-0-350-01355-4
+
+##logout
+##select 978-0-9
+Invalid
+##modify -name="clutch" -author="
+Invalid
+##select 978-1-206-97584-2
+Invalid
+##modify -name="keno" -keyword="experiment|Abe" -price=490.28
+Invalid
+##su 0WUpeNGU33yG8Y wB1HS5XBKAQb
+##logout
+##select 978-0-03-742812-1
+Invalid
+##modify -name="describe" -keyword="Mauritius|experiment|intervene|kidnapping"
+Invalid
+##select 978-0-18-682394-5
+Invalid
+##modify -name="Blackfoot" -author="GaryFarley" -keyword="vacua|uterine" -price=414.36
+Invalid
+##su etnU7C2EfGyq
+Invalid
+##buy 978-0-9741721-6-3 1
+Invalid
+##logout
+Invalid
+##su 0
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##select 978-1-116-14056-9
+Invalid
+##modify -name="ether" -author="StephanieWilliamson"
+Invalid
+##passwd 00yyfh6BhGTPOelDg _
+Invalid
+##logout
+Invalid
+##su TO QTtIzknsVMMA2sOUgt1tznvDkhdz
+##show -author="ChelseaGlenn"
+Invalid
+##show -keyword="tunic"
+Invalid
+##select 978-1-177-84820-6
+Invalid
+##modify -keyword="shoelace|Brillouin|Abe"
+Invalid
+##buy 978-1-4226-5
+Invalid
+##buy 978-0-425-23413-6 1
+Invalid
+##buy 978-1-298-01415-3 1
+Invalid
+##logout
+Invalid
+##selec
+Invalid
+##modify -name="desuetude" -author="ShaneHarvey" -keyword="uterine" -price=267.77
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -keyword="uterine" -price=100.65
+Invalid
+##su 0WUpeNGU33yG8Y 
+Invalid
+##buy 978-1-4129-1999-9 1
+Invalid
+##select 978-0-85812-055-6
+Invalid
+##modify -price=414.63
+Invalid
+##show -author="ShaneHarvey"
+Invalid
+##buy 978-1-298-01415-3 1
+Invalid
+##passwd 0WUpeNGU33yG8Y wB1HS5XBKAQb U9TWDyzTanBrnvUioxIIQr
+##select 978-0-540-72394-2
+Invalid
+##modify -author="DavidPrice" -price=275.50
+Invalid
+##select 978-0-410-84202-5
+Invalid
+##modify -name="Masonite" -author="BryanAndrade" -keyword="sudorific|conduit|Bradley|intervene
+Invalid
+##buy 978-1-85836-595-4 1
+Invalid
+##buy 978-0-410-84202-5 1
+Invalid
+##buy 978-1-203-45021-2 1
+Invalid
+##logout
+Invalid
+##select 978-0-622-56021-2
+Invalid
+##modify -name="ineradicable" -keyword="penultimate|stratosphere|Mauritius" -price=5.16
+Invalid
+##su OMNHWGjsQ APiY
+##show -ISBN=978-0-17-638042-7
+Invalid
+##select 978-0-600-40095-0
+Invalid
+##modify -keyword="betrothal|Bradley|Brillouin|Jan|shoelace" -price=422.31
+Invalid
+##buy 978-1-343-14151-3 1
+Invalid
+##show -keyword="expelled"
+Invalid
+##logout
+Invalid
+##select 978-1-9821-6617-5
+Invalid
+##modify -name="Apocrypha" -author="RebeccaBrooks" -keyword="catwalk|vacua|penultimate" -price=113.86
+Invalid
+##su yb_Fnep0PAo6O2z2GbP1nr5qr dZOOQnNowx_SmjKHj
+##show -nam
+Invalid
+##show -author="BarbaraWells"
+Invalid
+##show -name="appellate"
+Invalid
+##select 978-0-7614-1611-1
+Invalid
+##modify -name="breakage" -author="RichardPierceDDS" -keyw
+Invalid
+##buy 978-1-4226-5879-6 1
+Invalid
+##buy 978-0-622-56021-2 1
+Invalid
+##buy 978-0-7699-8803-0 1
+Invalid
+##logout
+Invalid
+##select 978-1-69838-887-8
+Invalid
+##modify -name="waltz" -author="SarahAnderson" -keyword="morn|agar|Abe|kidnapping" -price=5.64
+Invalid
+##su L1xj6kBR3wgusEc1lMQB36 aeMLQq0momX9nkP
+##buy 978-0-540-72394-2 1
+Invalid
+##select 978-1-55111-170-4
+Invalid
+##modify -name="integrable" -author="RebeccaBrooks" -keyword="experiment|Wheller|shoelace|Brillouin" -price=93.23
+Invalid
+##buy 978-0-430-48932-3 1
+Invalid
+##show -author="BarbaraWells"
+
+##show -name="liturgic"
+
+##buy 978-1-206-97584-2 1
+Invalid
+##show -name="terry"
+
+##show -ISBN=978-1-228-58595-1
+
+##show -keyword="mocha"
+
+##buy 978-1-346-13905-0 1
+Invalid
+##show -name="Sunday"
+
+##show -author="KellyPrice"
+
+##show -keyword="combinate"
+
+##passwd NX_93hVZNLEiBtntFBqCnPmMDdO YlRQx4jjNze0iumtnzyc_A vDOh7dTWbZ7Jw2fhzc5BdZkhkqd
+Invalid
+##buy 978-0-576-68843-7 1
+Invalid
+##show -ISBN=978-0-9698834-5-6
+
+##passwd L1xj6kBR3wgusEc1lMQB36 aeML
+Invalid
+##buy 978-0-600-40095-0 1
+Invalid
+##logout
+##select 978-0-576-68843-7
+Invalid
+##modify -keywor
+Invalid
+##select 978-1-07-231617-6
+Invalid
+##modify -author="TylerHarris" -keyword="expelled|vacua" -price=207.47
+Invalid
+##sele
+Invalid
+##modify -author="Ada
+Invalid
+##su etnU7C2EfGyqY7qg_n LCKD_mNVTsuGp03ICWY4E
+##logout
+##su root Ci9V3
+##logout
+Invalid
+##su LD2A_mD3RVOEcwhPpVQzIZDUc xJ2
+##buy 978-1-298-01415-3 1
+Invalid
+##select 978-0-07-906979-5
+Invalid
+##modify -na
+Invalid
+##show -keyword="tunic"
+
+##show -author="JohnHenson"
+
+##buy 978-0-929750-01-9 1
+Invalid
+##select 978-0-350-01355-4
+Invalid
+##modify -author="ChadLong" -keyword="Abe|Wheller|sudorific|humpty" -price=65.26
+Invalid
+##select 978-0-540-72394-2
+Invalid
+##modify -keyword="uterine|eastbound|catwalk"
+Invalid
+##buy 978-0-540-72394-2 1
+Invalid
+##show -keyword="vacua"
+
+##select 978-1-85836-595-4
+Invalid
+##modify -author="Mr.ChristopherRush"
+Invalid
+##show -author="AdamSalazar"
+
+##passwd 00yyfh6BhGTPOelDg owTvkfU30dJhz1wzY icut8Cewts14EVrNolJOvyMU
+Invalid
+##select 978-0-929750-01-9
+Invalid
+##modify -author="EricWa
+Invalid
+##passwd gjE5_lmP606qfZSwX1g4N5CBh HHgCFMifnBc7d25VfQ blkurVZIQbfmWa
+Invalid
+##show -name="riddance"
+
+##show -name="breakage"
+
+##buy 978-0-13-560388-8 1
+Invalid
+##logout
+##select 978-0-425-23413-6
+Invalid
+##modify -name="tilt" -keyword="agar|shoelace|intervene" -price=171.48
+Invalid
+##su N4_oq
+Invalid
+##show -author="RebeccaBrooks"
+Invalid
+##select 978-1-4593-6504-9
+Invalid
+##modify -name="syringa" -author="StephanieWilliamson" -keyword="morn|humpty" -price=73.51
+Invalid
+##show -author="JohnHenson"
+Invalid
+##show -name="ox"
+Invalid
+##show -keyword="shoelace"
+Invalid
+##show -author="ChadLong"
+Invalid
+##logout
+Invalid
+##su WYiuhvi3xwJJbyWqahEUWWzOU oQhssmiorCPLjjasw95LjZ
+##b
+Invalid
+##buy 978-0-05-845759-9 1
+Invalid
+##passwd WYiuhvi3xwJJbyWqahEUWWzOU oQhssmiorCPLjjasw95LjZ VSl55Fet4vNUvihQSgM13CX
+Invalid
+##logout
+Invalid
+##register v1b ffvZoIwtHIaWr0j83 TylerBlack
+##su Nl8Fn kHSBa4zOBvdw6T_usUR3rqwSg
+##buy 978-0-15-682331-9 1
+Invalid
+##select 978-0-295-56878
+Invalid
+##modify -name="harden" -author="Sher
+Invalid
+##show -ISBN=978-1-56546-655-5
+Invalid
+##buy 978-1-116-14056-9 1
+Invalid
+##buy 978-1-203-45021-2 1
+Invalid
+##show -name="AMA"
+Invalid
+##buy 978-1-304-85808-5 1
+Invalid
+##buy 978-1-398-62581-5 1
+Invalid
+##select 978-0-13-595539-0
+Invalid
+##m
+Invalid
+##show -name="Linus"
+Invalid
+##select 978-0-17-470646-5
+Invalid
+##modify -name="radium" -author="MissTashaZimmerman" -price=455.21
+Invalid
+##buy 978-0-7045-1108-8 1
+Invalid
+##show -keyword="humpty"
+Invalid
+##logout
+Invalid
+##register Yal44IDa_EuNIn5amf boMgz3a8A VictorDavis
+##su 8L29J6IJ8kPgAzwJijFRC m
+##passwd 8L29J6IJ8kPgAzwJijFRC m cvy3nMxmVs6HzL
+Invalid
+##buy 978-0-8194-8758-2 1
+Invalid
+##show -ISBN=978-0-7882-8019-1
+Invalid
+##buy 978-0-7045-110
+Invalid
+##show -name="pitman"
+Invalid
+##select 978-1-55111-170-4
+Invalid
+##modify -author="BrianMorgan" -price=253.06
+Invalid
+##show -author="ShaneHarvey"
+Invalid
+##logout
+Invalid
+##select 978-0-507-23248-7
+Invalid
+##modify -name="nodule" -author="
+Invalid
+##select 978-0-9928163-7-7
+Invalid
+##modify -author="KaylaKennedy" -price=476.46
+Invalid
+##select 978-0-347-95344-3
+Invalid
+##modify -name="leatherwork" -author="BryanAndrade" -keyword="civil|expelled|agar|vacua" -price=201.25
+Invalid
+##select 978-0-929750-01-9
+Invalid
+##modify -author="ChelseaGlenn" -price=160.69
+Invalid
+##su 54zZvud2BEFl iU6bjo5yO
+##show -keyword="expelled"
+
+##select 978-0-616-91636-0
+Invalid
+##modify -name="credo" -author="TammySnyder" -price=42
+Invalid
+##show -name="enumerable"
+
+##buy 978-0-19-224839-8 1
+Invalid
+##logout
+##register kFzlfEIZG1FefKHqIq7PAlk4lP uiO2UQUdwM7T6ioDstDofXWxN_9Wd LisaQuinn
+##select 978-1-4226-5879-6
+Invalid
+##modify -name="paprika" -author="StevenPhillips" -keyword="tunic|agar"
+Invalid
+##su root Ci9V3
+##delete E_yyN
+Invalid
+##select 978-0-9741721-6-3
+Invalid
+##modify -name="courteous" -price=171.47
+Invalid
+##select 978-1-898942-21-4
+Invalid
+##modify -name
+Invalid
+##logout
+Invalid
+##su uphH0Y3HO1bB9Jc NXpE2lHHYtRWjiwiucoraQVzduKW
+##logout
+Invalid
+##su soEwpfYqhPQ fKM7IxjwoEa
+##logout
+##su IgYbYkR71qbHUx OG9XiRpAQJzJ3Q
+##logout
+Invalid
+##su Nl8Fn kHSBa4zOBvdw6T_usUR3rqwSg
+##show -ISBN=978-0-19-224839-8
+Invalid
+##logout
+Invalid
+##select 978-1-4593-6504-9
+Invalid
+##modify -name="refuge" -author="BarbaraWells" -keyword="uterine|mocha|sudorific|Mauritius"
+Invalid
+##select 978-1-4226-5879-6
+Invalid
+##modify -author="GregoryGomez"
+Invalid
+##su E
+Invalid
+##useradd 8hSzl1jT0iZNfXxCA5m2tt dhaM5Blbu 1 CharlesClark
+Invalid
+##logout
+Invalid
+##su YMF8VSytZjGfLOhPh fIVGN5XZOd5hcSxyWX58zhRdNcBre
+##show -keyword="conduit"
+
+##logout
+##select 978-0-558-99991-9
+Invalid
+##modify -name="adult" -author="AdrianLawrence" -keyword="Asilomar|expelled" -price=480.24
+Invalid
+##select 978-1-253-56727-4
+Invalid
+##modify -keyword="experiment|Brillouin|combinate|conduit"
+Invalid
+##su zSlrRvT77GjOmR7WezZ MSvSb3MktAkjs0s7lRbV40UmsWT
+##passwd zSlrRvT77GjOmR7WezZ MSvSb3MktAkjs0s7lRbV40UmsWT 0wh
+##show -keyword="Brillouin"
+
+##buy 978-1-4138-4973-8 1
+Invalid
+##logout
+##su
+Invalid
+##logout
+Invalid
+##register fyBXTOJtEo z9 MichaelFrost
+##su PpptjawWKtwBP9yzGdDc_qxuEVH6l kx6aVVx8gR4d4THoVsp
+##buy 978-0-350-01355-4 1
+Invalid
+##logout
+Invalid
+##register VbQm8zgdcufdUXsxiOL22G d JonathanJohnson
+##select 978-0-283-81414-3
+Invalid
+##modify -name="torso" -author="EricaMitchell" -keyword="catwalk|expelled" -price=145.21
+Invalid
+##su zSlrRvT77GjOmR7WezZ 0wh
+##logou
+Invalid
+##su yb_Fnep0PAo6O2z2G
+Invalid
+##logout
+##su El1F1o4xHI7oOMPZiJhjl7iN MmLn
+Invalid
+##select 978-0-687-77666-5
+Invalid
+##modify -name="Mildred" -author="JonathanHull" -keyword="stratosphere|agar|intervene" -price=205.14
+Invalid
+##logout
+Invalid
+##select 978-1-222-97149-1
+Invalid
+##modify -name="allemand" -author="SherryHorn" -keyword="vacua" -price=310.29
+Invalid
+##su DqLF0vSfbtih TpNgMinAcp
+##select 978-0-9698834-5-6
+Invalid
+##modify -author="SherryHorn" -keyword="intervene|Brillouin"
+Invalid
+##select 978-0-17-470646-5
+Invalid
+##modify -name="paddy" -author="DavidPrice"
+Invalid
+##show -author="TammySnyder"
+Invalid
+##select 978-1-4635-3301-4
+Invalid
+##modify -name="ninebark" -author="AndreaAnder
+Invalid
+##select 978-1-157-41079-9
+Invalid
+##modify -name="toothpaste" -author="JenniferWilkerson" -keyword="civil|betrothal" -price=1
+Invalid
+##show -ISBN=978-0-7157-8453-2
+Invalid
+##buy 978-0-350-01355-4 1
+Invalid
+##select 978-1-156-94386-1
+Invalid
+##modify -name="cobblestone" -author="AdrianLawrence" -keyword="conduit|shoelace|tunic|combinate" -pr
+Invalid
+##select 978-0-419-49823-0
+Invalid
+##modify -name="anorthic" -author="StevenPhillips" -keyword="intervene|uterine|Abe|kidnapping|sudorific" -price=161.88
+Invalid
+##logout
+Invalid
+##select 978-1-4139-8531-3
+Invalid
+##modify -author="VeronicaTran"
+Invalid
+##select 978-1-4226-5879-6
+Invalid
+##modify -author="AdamSalazar" -keyword="Bradley|penultimate"
+Invalid
+##su 
+Invalid
+##logout
+Invalid
+##su 5ORMe8DxwTxdPUQF9XL uUewZ
+##select 978-0-540-72394-2
+Invalid
+##modify -author="BrianMorgan" -keyword="kidna
+Invalid
+##show -author="StephanieWilliamson"
+
+##buy 978-1-177
+Invalid
+##show -keyword="kidnapping"
+
+##select 
+Invalid
+##modify -name="largesse" -author="AdrianLawrence" -keyword="Abe|vacua|experiment" -price=174.69
+Invalid
+##passwd 5ORMe8DxwTxdPUQF9XL uUewZ 0G
+##logout
+##su 5ORMe8DxwTxdPUQF9XL 0G
+##show -ISBN=978-0-622-56021-2
+
+##select 978-0-236-66343-9
+Invalid
+##modify -name="plaintive" -author="ShannonBlake" -keyword="Brillouin|expelled|humpty|combinate|stratosphere"
+Invalid
+##show -keyword="tunic"
+
+##logout
+##select 978-1-82868-117-6
+Invalid
+##modify -name="poop" -author="AngelaHerrera" -keyword="Asilomar|kidnapping" -price=21
+Invalid
+##register D IRn4uYMv9jISdKi
+Invalid
+##select 978-1-9873-9591-4
+Invalid
+##modify -name="magnetron" -author="Mr.ChristopherRush" -keyword="intervene|vacua|eastbound|agar|combinate" -price=407.19
+Invalid
+##su dXLWu6L 300i2rKXaB86NIgPCsdXuH2JIUcU
+##select 978-0-7182-6246-4
+Invalid
+##modify -name="greenwood" -author="JonathanHull" -keyword="pursuit|betrothal|sudorific|mocha|morn" -price=295.01
+Invalid
+##select 978-0-7979-6716-8
+Invalid
+##modify -name="meteoric" -author="KennethMcpherson" -keyword="eastbound|Bradley|Jan|expelled" -price=477.85
+Invalid
+##show -keyword="Mauritius"
+
+##show -keyword="combinate"
+
+##select 978-1-5046-2437-4
+Invalid
+##modify -name="screen" -author="RichardPierceDDS" -keywo
+Invalid
+##select 978-1-922106-95-7
+Invalid
+##modify -name="anonymous" -author="TammySnyder" -keyword="conduit" -price=10.09
+Invalid
+##buy 978-0-7045-1108-8 1
+Invalid
+##show -ISBN=978-0-03-742812-1
+
+##select 978-1-83563-251-2
+Invalid
+##modify -name="nuance" -author="VeronicaTran" -keywo
+Invalid
+##buy 978-0-7614-1611-1 1
+Invalid
+##passwd dXLWu6L 300i2rKXaB86NIgPCsdXuH2JIUcU lL7wD7QHVJsLWbFGSn
+##show -author="Jonatha
+
+##logout
+##su Sk4ycRRL3swJ8 bvNrhz0
+##buy 978-0-495-56786-8 1
+Invalid
+##select 978-1-4588-1735-8
+Invalid
+##modify -name="Latvia" -author="ChelseaGlenn" -keyword="uterine|intervene" -price=138.30
+Invalid
+##
+##show -ISBN=978-1-343-14151-3
+
+##buy 
+Invalid
+##select 978-1-4226-5879-6
+Invalid
+##modify -name="
+Invalid
+##buy 978-0-7882-8019-1 1
+Invalid
+##logout
+##select 978
+Invalid
+##modify -author="BrianMorgan" -keyword="Bradley|conduit|Wheller|pursuit" -price=101.98
+Invalid
+##register fyEOwm_clylIPlBrd1jcpLiUeJSxf9 _JiZmJ EricMontgomery
+##select 978-0-02-738768-1
+Invalid
+##modify -name="moccasin" -author="Gary
+Invalid
+##su 281K Tv_GZxwL2Nz
+##show -name="Irrawaddy"
+
+##logout
+##register RTAEj8A1tN2R 4_N43symbbea MatthewGross
+##select 978-0-97
+Invalid
+##modify -name="ogress" -author="AdrianLawrence" -keyword="Wheller|Brillouin" -price=73.36
+Invalid
+##su fBOJvrla9DH lKxddyKovXP7tm
+##select 978-0-00-499060-6
+Invalid
+##modify -name="loch" -author="Mrs.SabrinaHowardPhD" -keyword="kidnapping|civil|catwalk" -price=25.47
+Invalid
+##buy 978-1-206-97584-2 1
+Invalid
+##select 97
+Invalid
+##modify -name="juniper" -author="BrianMorgan" -price=210.95
+Invalid
+##show -ISBN=978-0-13-595539-0
+Invalid
+##show -ISBN=978-0-9928163-7-7
+Invalid
+##show -name="ascription"
+Invalid
+##buy 978-0-586-38245-
+Invalid
+##select 978-1-177-84820-6
+Invalid
+##modify -name="trailside" -a
+Invalid
+##show -name="screen"
+Invalid
+##select 978-0-17-470646-5
+Invalid
+##buy 978-0-7930-1557-3 1
+Invalid
+##select 978-
+Invalid
+##modify -name="attache" -author="BeverlySimmons" -keyword="experiment|shoelace" -price=281.96
+Invalid
+##select 978-1-66427-614-7
+Invalid
+##modify -name="panjan
+Invalid
+##show -keyword="penultimate
+Invalid
+##logout
+Invalid
+##select 978-1-898942-21-4
+Invalid
+##modify 
+Invalid
+##su 00yyfh6BhGTPOelDg 3QaUjNRTV7WfG5QL
+Invalid
+##buy 978-1-157-41079-9 1
+Invalid
+##select 978-0-7182-6246-4
+Invalid
+##modify -name="cajole" -author="Dr.SharonPowell" -keyword="catwalk|sudorific|mocha|Brillouin"
+Invalid
+##logout
+Invalid
+##register g xGKWlTUYNDObMJ5 NathanLi
+##su Vvb2lbthNNNAZzo2V9yracdT4CwYO lt
+Invalid
+##select 978-0-15-682331-9
+Invalid
+##modify -name="cyclic" -author="EricaMitchell" -keyword="sh
+Invalid
+##select 978-1-4138-4973-8
+Invalid
+##modify -author="MissTashaZimmerman" -keyword="shoelace|penultimate|sudorific|kidnapping" -pri
+Invalid
+##show -author="MissTashaZimmerman"
+Invalid
+##buy 978-1-
+Invalid
+##logout
+Invalid
+##su root Ci9V3
+##select 978-0-7127-4287-0
+Invalid
+##modify -name="serious" -author="ChadLong" -keyword="experiment|pursu
+Invalid
+##logout
+Invalid
+##select 978-1-66427-614-7
+Invalid
+##modify -name="osmosi
+Invalid
+##su Vvb2lbthNNNAZzo2V9yracdT4CwYO ltHsrTXAZZRd
+##show -author="KellyAnderson"
+
+##select 978-0-391-19344-4
+Invalid
+##modify -name="daybed" -a
+Invalid
+##select 978-1-4138-4973-8
+Invalid
+##modify -name="exclamatory" -author="StephanieWilliamson" -keyword="Asilomar|kidnapping|Jan"
+Invalid
+##select 978-0-384-89427-3
+Invalid
+##modify -name="parimutuel" -author="GregoryGomez" -keyword="shoelace|combinate" -price=128.16
+Invalid
+##show -keyword="intervene"
+
+##logout
+##su uphH0Y3HO1bB9Jc NXpE2lHHYtRWjiwiucoraQVzduKW
+##select 978-0
+Invalid
+##modify -name="fortin" -price=101.75
+Invalid
+##select 978-0-682-39231-0
+Invalid
+##modify -name="unidirectional" -author="RachelChen" -keywo
+Invalid
+##show -author="AdamSalazar"
+Invalid
+##select 978-1-944459-70-3
+Invalid
+##modify -name="essence" -author="VeronicaTran" -keyword="combinate" -price=37.41
+Invalid
+##buy 978-0-540-72394-2 1
+Invalid
+##logout
+Invalid
+##su
+Invalid
+##select 978-0-355-97147-7
+Invalid
+##modify 
+Invalid
+##show -name="juniper"
+Invalid
+##show -name="paddy"
+Invalid
+##show -author="Dr.SharonPowell"
+Invalid
+##show -keyword="Jan"
+Invalid
+##buy 978-1-4041-3603-8 1
+Invalid
+##passwd NX_93hVZNLEiBtntFBqCnPmMDdO HfpPUdD9r2XvB52 YUfH0uq5FOdtbEPkaM3tx
+##select 978-0-9928163-7-7
+Invalid
+##modify -name="stem" -author="RachelChen"
+Invalid
+##logout
+Invalid
+##register F_ZCrPu20mWG08LJuFbYfKMov OGwKWeXyn9FDiNJz6n0fMeITh JenniferThomas
+##register 0Bx TLA6CbwaYUpFr31vWp6wAgf0ijz RobertLong
+##select 978-0-355-97147-7
+Invalid
+##modify -name="Nordstrom" -author="StephanieWilliamson" -keyword="sudorific|vacua|morn"
+Invalid
+##su 8hSzl1jT
+Invalid
+##select 978-1-56545-486-6
+Invalid
+##modify -name="enamel" -author="KelseyMelton" -keyword="vacua|Abe|cassock|morn" -price=77.23
+Invalid
+##select 978-1-972532-40-9
+Invalid
+##modify -name="rouge" -author="ChadLong" -keyword="Asilomar|eastbound|conduit|shoelace" -price=68.43
+Invalid
+##buy 978-1-253-56727-4 1
+Invalid
+##buy 978-0-495-56786-8 1
+Invalid
+##show -author="Mrs.SabrinaHowardPhD"
+Invalid
+##show -ISBN=978-0-7930-1557-3
+Invalid
+##logout
+Invalid
+##register VkH3MQWRKakBOdNIGbqRpvc_ uIgWsPtRTqHsxn1MMB WilliamMueller
+##select 978-0-687-77666-5
+Invalid
+##modify -author="KaylaKennedy" -keyword="uterine|expelled" -price=71.58
+Invalid
+##select 978-0-295-56878-2
+Invalid
+##modify -author="AndreaAnderson" -keyword="catwalk|Abe|cassock|betrothal"
+Invalid
+##register qjL9oSfBtqRPA1pcBf fjYH KathyDoyle
+##su VLO9mLa48LPRQwVEiwl9 ZMRzKf4
+##select 978-0-687-77666
+Invalid
+##modify -name="Canaan" -keyword="cassock|pursuit|Jan|c
+Invalid
+##show -keyword="vacua"
+Invalid
+##logout
+Invalid
+##select 978-0-7614-1611-1
+Invalid
+##modify -name="sound" -author="GaryFarley" -keyword="intervene|Brillouin|humpty|agar" -price=237.90
+Invalid
+##su w1ePZ7QxRA i_t0G0xH2OV31U
+##select 978-0-622-56021-2
+Invalid
+##modify -name="revert" -author="RachelChen" -price=226.21
+Invalid
+##passwd w1ePZ7QxRA i_t0G0xH2OV31U A3II_g38tbZFL7nZz4u
+##show -name="paddy"
+
+##passwd w1ePZ7QxRA A3II_g38tbZFL7nZz4u 6OHuOcIuMYCfJQnJs
+##buy 978-1
+Invalid
+##select 978-0-207-37941-3
+Invalid
+##modify -name="sophomoric" -author="ShaneHarvey" -keyword=
+Invalid
+##buy 978-1-972532-40-9 1
+Invalid
+##select 978-0-600-40095-0
+Invalid
+##modify -name="Ku" -keyword="
+Invalid
+##logout
+##select 978-1-304-85808-5
+Invalid
+##modify -name="summit"
+Invalid
+##su 8L29J6IJ8kPgAzwJijFRC cvy3nMxmVs6HzL
+##buy 978-0-207-37941-3 1
+Invalid
+##buy 978-1-253-56
+Invalid
+##select 978-0-7614-1611-1
+Invalid
+##modify -author="DavidHenderson" -keyword="Jan|expelled|Abe|sudorific" -price=172.54
+Invalid
+##buy 978-1-157-41079-9 1
+Invalid
+##select 978-0-501-83977-4
+Invalid
+##modify -name="anachronism" -author="SaraJones" -keyword="tunic|penultimate" -price=449.71
+Invalid
+##buy 978-0-692-49126-3 1
+Invalid
+##buy 978-0-8194-8758-2 1
+Invalid
+##buy 978-0-682-39231-0 1
+Invalid
+##logout
+Invalid
+##su Vvb2lbthNNNAZzo2V9yracdT4CwYO ltHsrTXAZZRd
+##logout
+##select 978-0-692-49126-3
+Invalid
+##modify -author="RebeccaBrooks" -keyword="humpty|uterine" -price=386.46
+Invalid
+##register 2_4jkLEQ3iBn228ISBuo7 4jrIIHpV9IAQWr9uF TheresaWatson
+##su YMF8VSytZjGfLOhPh fIVGN5XZOd5hcSxyWX58zhRdNcBre
+##buy 978-0-600-40095-0 1
+Invalid
+##select 978-0-9741721-6-3
+Invalid
+##modify -name="wetland" -keyword="civil|betrothal|catwalk|pu
+Invalid
+##select 978-1-03-185507-4
+Invalid
+##modify -name="intent" -author="ShaneHarvey" -keyword="experiment|eastbound|mocha|Mauritius" -price=375.92
+Invalid
+##show -name="network"
+
+##buy 978-1-82868-117-6 1
+Invalid
+##show -au
+Invalid
+##show -ISBN=978-0-681-95993-4
+
+##buy 97
+Invalid
+##select 978-1-375-67139-2
+Invalid
+##modify -name="fray" -author="KennethMcpherson" -keyword="penultimate|conduit|cassock" -price=117.35
+Invalid
+##select 978-0-7157-8453-2
+Invalid
+##modify -author="BrianMorgan" -keyword="penultimate|intervene|betrothal" -price=33.68
+Invalid
+##buy 978-0-7182-6246-4 1
+Invalid
+##buy 978-0
+Invalid
+##show -keyword="conduit"
+
+##select 978-1-393-46432-7
+Invalid
+##modify -name="imprecise" -author="JonathanHarmon" -
+Invalid
+##logout
+##register pZcgl6XwE4 I5f1iJ4DIX0xWKIWixuBD ConnieDavies
+##su M0chBGj6EId57ykTmF65W61ekZ
+Invalid
+##select 978-1-922106-95-7
+Invalid
+##modify -name="stucco" -author="StephanieWilliamson" -keyword="Asilomar|eastbound" -price=278.73
+Invalid
+##select 978-1-156-94386-1
+Invalid
+##modify -name="ouch" -author="BeverlySimmons" -keyword="experiment|eastbound|expelled" -price=19.76
+Invalid
+##buy 978-0-576-68843-7 1
+Invalid
+##buy 978-0-15-682331-9 1
+Invalid
+##passwd root ED42Agtc1ho7NWD_vRMZNXZKbfA79O GxWtmVrarzt8w72fIuP7U36d
+Invalid
+##select 978-1-917196-63-5
+Invalid
+##modify -
+Invalid
+##logout
+Invalid
+##select 978-1-05-289738-1
+Invalid
+##modify -name="infanticide" -author="BryanAndrade" -keyword="conduit|Mauritius|experiment|Abe" -price=266.85
+Invalid
+##su El1F1o4xHI7oOMPZiJhjl7iN MmLnOOowDO
+##show -author="JonathanHarmon"
+
+##show -keyword="penultimate"
+
+##select 978-1-322-11086-8
+Invalid
+##modify -name="flannel" -author="JohnHenson" -keyword="conduit|Bradley" -price=317.50
+Invalid
+##logout
+##su gjE5_lmP606qfZSwX1g4N5CBh pO0LJT1YFfj2_9izkSHrT
+##show -ISBN=978-0-692-49126-3
+
+##buy 978-0-15-682331-9 1
+Invalid
+##select 978-0-8087-7907-0
+Invalid
+##modify -keyword="catwalk|stratosphe
+Invalid
+##logout
+##select 978-0-17-470646-5
+Invalid
+##modify -name="inevitable" -keyword="Asilomar|betrothal" -price=145.48
+Invalid
+##su ogCH11fjd_0H KS9lxMW_2d7ay
+Invalid
+##buy 978-0-687-77
+Invalid
+##show -name="fissure"
+Invalid
+##select 978-0-15-682331-9
+Invalid
+##modif
+Invalid
+##logout
+Invalid
+##select 978-1-253-56727-4
+Invalid
+##modify -name="graduate" -author="JonathanHull" -keyword="combinate|catwalk" -price=343.30
+Invalid
+##s
+Invalid
+##select 978-1-375-67139-2
+Invalid
+##modify -name="nob" -author="SaraJones" -keyword="cassock|Bradley"
+Invalid
+##show -ISBN=978-0-430-48932-3
+Invalid
+##buy 978-1-4588-1735-8 1
+Invalid
+##select 978-1-931687-31-7
+Invalid
+##modify -name="aileron" -author="ChadLong" -keyword="Bradley|cassock|humpty|shoelace" -price=361.64
+Invalid
+##show -keyword="Asilomar"
+Invalid
+##logout
+Invalid
+##select 978-0-13-595539-0
+Invalid
+##modify -author="KellyAnderson" -keyword="humpty|Mauritius|experiment|agar|Brillouin" -price=196.28
+Invalid
+##su 4I
+Invalid
+##show -keyword="Brillouin"
+Invalid
+##select 978-1-07-967714-0
+Invalid
+##modify -name="flax" -author="ShannonBlake" -keyword="eastbound|agar|B
+Invalid
+##passwd R0P8CVIkYe4F7TtyHrwQOW jm10TF5bE9w43R7APxu5K4 _DVN5QoXwqlH
+##logout
+Invalid
+##su Vvb2lbthNNNAZzo2V9yracdT4CwYO ltHsrTXAZZ
+Invalid
+##show -keyword="combinate"
+Invalid
+##logou
+Invalid
+##select 978-0-450-06934-5
+Invalid
+##modify -name="inedible" -author="RichardPierceDDS" -keyword="mocha|tunic" -price=277.07
+Invalid
+##select 978-1-304-85808-5
+Invalid
+##modify -author="JasonPerez" -keyword="stratosphere|morn" -price=296.72
+Invalid
+##su Nl8Fn kHSBa4zOBvdw6T_usUR3rqwSg
+##select 978-0-3
+Invalid
+##modify -name="Hurd" -author="MeghanPorter" -keyword="tunic|morn" -price=324.25
+Invalid
+##buy 978-1-398-62581-5 1
+Invalid
+##select 978-0-916850-72-2
+Invalid
+##modify
+Invalid
+##buy 978-0-295-5687
+Invalid
+##select 978-0-7045-1108-8
+Invalid
+##modify -name="biz" -keyword="u
+Invalid
+##select 978-0-01-428639-3
+Invalid
+##modify -name="fawn" -author="NicolePitts" -keyword="civil|Jan|Bradley|pursuit|shoelace" -pr
+Invalid
+##show -ISBN=978-0-8106-7527-8
+Invalid
+##select 978-0-391-19344-4
+Invalid
+##modify -name="alfalfa" -author="ChadLong" -keyword="Wheller" -price=37.73
+Invalid
+##passwd D Tx v6xUhFe
+Invalid
+##buy 978-0-616-91636-0 1
+Invalid
+##select 978-0-974
+Invalid
+##modify -keyword="uterine|Brillouin"
+Invalid
+##logout
+Invalid
+##su DqLF0vSfbtih TpNgMinAcp
+##passwd zSlrRvT77GjOmR7WezZ rOj4 UlHL3O
+Invalid
+##show -keyword="agar"
+Invalid
+##buy 978-1-972532-40-9 1
+Invalid
+##show -name="paddy"
+Invalid
+##select 978-0-07-906979-5
+Invalid
+##modify -author="Mrs.SabrinaHowardPhD" -keyword="sudorific|cassock|betrothal|Wheller|Mauritius" -price=206.81
+Invalid
+##show -ISBN=978-1-379-55315-1
+Invalid
+##buy 978-1-4593-6504-9 1
+Invalid
+##buy 978-0-600-40095-0 1
+Invalid
+##buy 978-0-7182-6246-4 1
+Invalid
+##logout
+Invalid
+##register pEgN1KX QYoVN4WM6 ScottWatts
+##select 978-0-222-64496-1
+Invalid
+##modify -name="stimulant" -author="JenniferWilkerson" -keywor
+Invalid
+##su LD2A_mD3RVOEcwhPpVQzIZDUc xJ2
+##buy 978-1-65638-8
+Invalid
+##select 978-0-85812-055-6
+Invalid
+##modify -author="Mrs.SabrinaHowardPhD" -keyword="Bradley|Asilomar|combinate" -price=262.63
+Invalid
+##select 978-1-82810-230-5
+Invalid
+##modify -name="fodder" -author="JosephVazquez" -keyword="Jan|Wheller|vacua|kidnapping|morn" -price=2
+Invalid
+##select 978-1-70383-683-7
+Invalid
+##modify -name="abeyant" -author="EricWard" -keyword="intervene|Brillouin|combinate|uterine" -price=139.30
+Invalid
+##buy 978-0-430-48932-3 1
+Invalid
+##select 978-1-61029-394-5
+Invalid
+##modify -name="ash" -author="JosephVazquez" -keyword="Wheller|experiment|agar|tunic" -price=71.00
+Invalid
+##passwd LD2A_mD3RVOEcwhPpVQzIZDUc xJ2 YtVpxXuHF
+##buy 978-1-4593-6504-9 1
+Invalid
+##buy 978-0-6
+Invalid
+##logout
+##su R0P8CVIkYe4F7TtyHrwQOW _DVN5QoXwqlH
+##buy 978-1-83563-251-2 1
+Invalid
+##show -ISBN=978-0-7157-8453-2
+
+##select 978-0-13-560388-8
+Invalid
+##modify -name="emphasis" -author="Jenni
+Invalid
+##buy 978-1-61029-394-5 1
+Invalid
+##show 
+
+##passwd R0P8CVIkYe4F7TtyHrwQOW _DVN5QoXwqlH YKkbyIk1lw7qC5QLJSpMVO
+##select 978-1-276-93257-8
+Invalid
+##modify -name="Pyongyang" -author="TammySnyder" -keyword="agar|morn|pursuit" -price=483.96
+Invalid
+##buy 978-1-228-58595-1 1
+Invalid
+##show -author="KelseyMelton"
+
+##buy 978-1-85836-595-4 1
+Invalid
+##show -author="AdamSalazar"
+
+##show -keyword="civil"
+
+##buy 978-0-616-91636-0 1
+Invalid
+##select 978-1-78811-868-2
+Invalid
+##modif
+Invalid
+##show -keyword="Brillouin"
+
+##show -name="fodder"
+
+##show -author="ChadLong"
+
+##show -keyword="morn"
+
+##logout
+##su 1UnoMScX8 4
+##buy 978-1-206-97584-2 1
+Invalid
+##show -ISBN=978-0-7127-4287-0
+
+##show -name="Pyongyang"
+
+##select 978-1-07-231617-
+Invalid
+##modify -name="kinetic" -author="JonathanHull" -keyword="stratosphere" -price=462.42
+Invalid
+##show -name="wetland"
+
+##select 978-0-931729-06-5
+Invalid
+##modify -name="adventurous" -author="BrianMorgan" -keyword="vacua" -price=143.62
+Invalid
+##logout
+##su Mj4Gr
+Invalid
+##select 978-1-917196-63-5
+Invalid
+##modify -author="ShannonBlake" -price=305.43
+Invalid
+##select 978-0-391-19344-4
+Invalid
+##modify -name="countermand" -keyword="cassock|conduit|Mauritius" -price=58.38
+Invalid
+##buy 978-0-576-68843-7 1
+Invalid
+##buy 978-1-72139-155-4 1
+Invalid
+##passwd Mj4Gr75RlJ d vMx2VJ
+##show -ISBN=978-1
+Invalid
+##buy 978-1-61029-394-5 1
+Invalid
+##buy 978-0-430-48932-3 1
+Invalid
+##logout
+Invalid
+##su 8L29J6IJ8kPgAzwJijFRC cvy3nMxmVs6HzL
+##select 978-1-56545-486-6
+Invalid
+##modify -author="SarahAnderson" -keyword="kidnapping|Bradley|intervene|Abe"
+Invalid
+##select 978-0-533-02201-4
+Invalid
+##modify -name="captor" -author="KelseyMelton" -keyword="kidnapping|pursuit" -price=165.81
+Invalid
+##show -author="Mrs.SabrinaHowardPhD"
+Invalid
+##show -name="kinetic"
+Invalid
+##select 978-1-206-97584-2
+Invalid
+##modify -name="Kennan" -author="BrianMorgan" -price=389.95
+Invalid
+##show -author="JenniferWilkerson"
+Invalid
+##show -keyword="vacua"
+Invalid
+##logout
+Invalid
+##select 978-1-322-11086-8
+Invalid
+##modify -name="scrimmage" -author="JenniferWilkerson" -keyword="tunic|
+Invalid
+##su x G0Fsr9_RasdGAhLRpQ99bd3
+##buy 978-1-55111-170-4 1
+Invalid
+##select 978-0-622-56021-2
+Invalid
+##modify -name="spike" -price=499.09
+Invalid
+##buy 978-0-8087-7907-0 1
+Invalid
+##select 978-1-303-10855-6
+Invalid
+##modify -name="Edmonton" 
+Invalid
+##logout
+##register TFlj0ilQVZ4ohHb 2qEX9PDty7Iq7u Mar
+##select 978-1-83563-251-2
+Invalid
+##modify -name="Delft" -author="RachelChen" -keyword="tunic|combinate" -price=271.01
+Invalid
+##register gjfkz6ZJBeTsPApKy Vc4IJGn6VtJfwNYd KellyPerez
+##su k1Bnoufi502Fg0_0cuknRbe t9liTPM0FKWk0vxoU
+##buy 978-1-379-55315-1 1
+Invalid
+##select 978-1-298-01415-3
+Invalid
+##modify -author="Ba
+Invalid
+##logout
+Invalid
+##select 978-1-253-40447-0
+Invalid
+##modify -name="Gertrude" -author="EricWard" -keyword="vacua|uterine|cassock" -price=108.39
+Invalid
+##select 978-0-89903-096-8
+Invalid
+##modify -name="peepy" -author="Dr.SharonPowell" -keyword="Brillouin|penultimate|eastbound|Asilomar" -price=26.22
+Invalid
+##register xlQqqEEigglmC6B_zHPrmzKv_4Cbd sYrS2Frm75HXjan4GlcmZefOcToF PaulStark
+##su MWpdaAoERQD5PvjQzAvfGhbMqb uVNB7IyHv
+##passwd MWpdaAoERQD5PvjQzAvfGhbMqb uVNB7IyHv bSNoi
+Invalid
+##buy 978-1-274-59487-7 1
+Invalid
+##show -author="Mrs.SabrinaHowardPhD"
+Invalid
+##logout
+Invalid
+##register JftINkyapvUE9_i3Oo0SKI Hgc JamesDavis
+##register 3Ok5tDPcDJJOjZWSVuM YoDFmJcUB4TTcCInXcVPO SarahHur
+##select 978-1-65638-835-3
+Invalid
+##modify -autho
+Invalid
+##select 978-0-495-56786-8
+Invalid
+##modify -name="parkland" -author="ShaneHarvey" -keyword="Bradley|Wheller" -price=324.85
+Invalid
+##su 5ORMe8DxwTxdPUQF9XL 0G
+##logout
+##select 978-0-393-10289-5
+Invalid
+##modify -author="BarbaraWells" -price=486.69
+Invalid
+##su 8L29J6IJ8kPgAzwJijFRC cvy3nMxmVs6HzL
+##select 978-1-941534-80-9
+Invalid
+##modify -name="sink" -author="JenniferWilkerson" -keyword="eastbo
+Invalid
+##select 978-1-58324-566-8
+Invalid
+##modify -name="symposium" -author="BeverlySimmons" -keyword="catwalk|cassock|stratosphere" -pr
+Invalid
+##select 978-1-276-93257-8
+Invalid
+##modify -name="Alvarez" -author="VeronicaTran" -keyword="combinate|Jan|penultimate|uterine|mocha" -price=116.03
+Invalid
+##select 978-1-116-14056-9
+Invalid
+##modify -name="plasma" -keyword="Asilomar|humpty"
+Invalid
+##select 978-0-391-19344-4
+Invalid
+##modify -name="cockeye" -keyword="Brillouin|catwalk|Asilomar|betrothal" -price=27.51
+Invalid
+##logout
+Invalid
+##register Tdv7CBcYcIU6THZ ghu JaimeRoth
+##select 978-0-05-348948-9
+Invalid
+##modify -name="forth" -author="StephanieWilliamson" -keyword="Wheller|betrothal|civil" -price=18.64
+Invalid
+##su 54zZvud2BEFl iU6bjo5yO
+##show -author="RachelChen"
+
+##buy 978-0-350-01355-4 1
+Invalid
+##show -ISBN=978-
+
+##show -ISBN=978-1-65638-835-3
+
+##buy 978-0-540-72394-2 1
+Invalid
+##passwd DqLF0vSfbtih pHndlWLN
+Invalid
+##show -keyword="Jan"
+
+##show -name="stucco"
+
+##select 978-1-82397-293-4
+Invalid
+##modify -name="juxtaposition" -author="BarbaraPerez" -keyword="betrothal|tunic|exp
+Invalid
+##select 978-0-87913-349-8
+Invalid
+##modify -name="transduction" -author="Ric
+Invalid
+##buy 978-1-322-11086-8 1
+Invalid
+##select 978-1-346-13905-0
+Invalid
+##modify -name="gracious"
+Invalid
+##buy 978-0-7614-1611-1 1
+Invalid
+##select 978-0-7295-2018-8
+Invalid
+##modify -name="wack" -author="Dr.SharonPowell" -keyword="penultimate|uterine|Brillouin" -price=333.98
+Invalid
+##select 978-1-972048-80-1
+Invalid
+##modify -name="quixotic" -author="KellyPrice" -keyword="uterine|agar|vacua|eastbound" -price=130.72
+Invalid
+##logout
+##register 23boHesBaspQtIEo6Khd HMlY4JaltNc7hMF_ZVdZ8fH
+Invalid
+##su FIwP61q2iaham_Q8z_ v7mMDCiRK
+##show -keyword="shoelace"
+
+##logout
+##select 978-
+Invalid
+##modify -name="meiosis" -author="SaraJones" -keyword="mocha" -price=160.47
+Invalid
+##select 978-1-972532-40-9
+Invalid
+##modify -name="eh" -author="SherryHorn" -price=219.64
+Invalid
+##su OMNHWGjsQ APiYGAFdDunD1uUiEimLRnLhnw
+##select 978-0-931729-06-5
+Invalid
+##logout
+Invalid
+##select 978-0-7271-0313-0
+Invalid
+##
+##select 978-0-7930-1557-3
+Invalid
+##modify -name="fumigate" -author="MeghanPort
+Invalid
+##su 281K Tv_GZxwL2Nz
+##logout
+##su YMF8VSytZjGfLOhPh fIVGN5XZOd5hcSxyWX58zhRdNcBre
+##show -ISBN=978-1-157-41079-9
+
+##show -ISBN=978-1-58324-566-8
+
+##buy 978-0-01-428639-3 1
+Invalid
+##passwd YMF8VSytZ
+Invalid
+##show -keyword="B
+
+##show -name="flannel"
+
+##select 978-0-10-870033-0
+Invalid
+##modify -name="henry" -author="RachelChen" -keywo
+Invalid
+##buy 978-0-10-870033-0 1
+Invalid
+##buy 978-0-7295-2018-8 1
+Invalid
+##logout
+##select 978-0-430-48932-3
+Invalid
+##modify -name="gremlin" -author="ShannonBlake" -keyword="Asilomar|Mauritius|agar"
+Invalid
+##su etnU7C2EfGyqY7qg_n LCKD_mNVTsuGp03ICWY4E
+##show -ISBN=978-1-206-97584-2
+
+##buy 978-1-70383-683-7 1
+Invalid
+##buy 978-0-576-68843-7 1
+Invalid
+##show -author="RachelChen"
+
+##logout
+##select 978-0-406-41372-7
+Invalid
+##modify -name="Cheryl" -author="DavidPrice" -keyword="Wheller|eastbound|Jan|civil" -price=9.38
+Invalid
+##su YCyXFM6fiun4D2MYbXIL8vZ1iyfqjT dHr9_oSsEqLL
+##logout
+##select 978-0-687-77666-5
+Invalid
+##modify -name="keypunch" -k
+Invalid
+##su E2NI fxmexvDJ
+##useradd D4HZNAhibD pVdQC3kGjfSa 1 CathyJohnson
+Invalid
+##useradd h36v2nPfK0LoBbmUqhjc1W IIS 1 JasonMurray
+Invalid
+##select 978-1-917196-63-5
+Invalid
+##modify -name="Dailey" -author="BryanAndrade" -keyword="expelled|morn|m
+Invalid
+##import 13 1546.23
+Invalid
+##useradd JZTTvylkOjiGttIRZATgan d 1 MarkKnight
+Invalid
+##useradd 5vu_wvY94FDM_xiWMbYqxHRD vgXa0JfoQKCnGXFnimHU5nt7 1 CynthiaCollins
+Invalid
+##useradd 8GurSHL12KWeKe6
+Invalid
+##logout
+Invalid
+##register Z3CVrNTMB 6Dydn40vnR32ty_j T
+##select 978-1-4139-8531-3
+Invalid
+##modify -name="horsewoman" -author="ShannonBlake" -price=482.89
+Invalid
+##select 978-0-7399-6306-7
+Invalid
+##modify -name="freshwater" -author="MeghanPorter" -keyword="shoelace|intervene|eastbound|morn|tunic" -price=330.98
+Invalid
+##su TFlj0ilQVZ4ohHb 2qEX9PDty7Iq7u
+##logout
+##select 978-1-4129-1999-9
+Invalid
+##modify -name="cancellate" -author="HeatherGoodman" -keyword="combinate|Abe" -price=199.79
+Invalid
+##select 978-0-687-7766
+Invalid
+##modify -name="Helsinki" -author="GaryFa
+Invalid
+##register 7RltjxCch5uLkx8faehyNLEk7ZbU0s dsU_m Bra
+##su root Ci9V3
+##logout
+Invalid
+##select 978-1-56545-486-6
+Invalid
+##modify -name="oxeye" -author="GaryFarley"
+Invalid
+##su x G0Fsr9_RasdGAhLRpQ99
+Invalid
+##show -author="BeverlySimmons"
+Invalid
+##logout
+Invalid
+##select 978-1-393-46432
+Invalid
+##modify -name="procaine" -author="AngelaHerrera" -keyword="Wheller|stratosphere|intervene|expelled|penultimate" -price=340.68
+Invalid
+##register oesQhbHBXyisIQLkUu5n78 PSMTfmmekx9sqom9vzi
+Invalid
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##logout
+##su H o8wC0HponfGSH9P
+##show -name="exclamatory"
+
+##logout
+##su PFghnHX_vDS05dlbzEH4
+Invalid
+##select 978-0-15-682331-9
+Invalid
+##modify -name="patina" -keyword="Brillouin" -price=167.06
+Invalid
+##select 978-1-355-14073-3
+Invalid
+##modify -name="brassiere" -author="SherryHorn" -keyword="shoelace" -price=60.76
+Invalid
+##logout
+Invalid
+##su E2NI fxmexvDJ
+##useradd mfy6GnzTigcL924IDpuj8ukD4W BDuCHQnnNa3WXJyUK5j 1 LindseyFoster
+Invalid
+##select 978-1-72139-155-4
+Invalid
+##modify -name="sleet" -keyword="Wheller|intervene|Jan|expelled" -price=418.57
+Invalid
+##logout
+Invalid
+##su pZcgl6XwE4 I5f1iJ4DIX0xWKIWixuBD
+##select 978-0-929750-01-9
+Invalid
+##modify -author="Dr.SharonPowell"
+Invalid
+##show -name="parimutuel"
+
+##select 978-0-217-35200-0
+Invalid
+##modify -name="expensive" -author="Steven
+Invalid
+##select 978-1-913100-38-4
+Invalid
+##modify -name="Kane" -author="BarbaraPerez" -keyword="kidnapping|humpty|tunic|morn" -price=92.37
+Invalid
+##logout
+##select 978-0-590-4295
+Invalid
+##modify -name="humerus" -author="KelseyMelton" -keyword="morn|penu
+Invalid
+##su NX_93hVZNLEiBtntFBqCnPmMDdO YUfH0uq5FOdtbEPkaM3tx
+##select 978-0-05-845759-9
+Invalid
+##modify -name="idolatry" -author="KelseyMelton" -keyword="betrothal|shoelace"
+Invalid
+##buy 978-0-15-682331-9 1
+Invalid
+##buy 978-1-58324-566-8 1
+Invalid
+##passwd NX_93hVZNLEiBtntFBqCnPmMDdO YUfH0uq5FOdtbEPkaM3tx uzeP0Hq5BFHni
+##logout
+##su ogCH11fjd_0H KS9lxMW_2d7ay
+Invalid
+##select 978-1-4717-1007-0
+Invalid
+##modify -name="Haynes" -author="JohnHenson" -keyword="Brillouin|cassock|Mauritius|Wheller|morn" -price=256.87
+Invalid
+##buy 978-0-7157-8453-2 1
+Invalid
+##select 978-1-78811-868-2
+Invalid
+##modify -name="testes" -
+Invalid
+##logout
+Invalid
+##select 978-0-586-38245-5
+Invalid
+##modify -name="subsidiary" -price=75.53
+Invalid
+##su soEwpfYqhPQ fKM7IxjwoEa
+##select 978-1-03-185507-4
+Invalid
+##
+##select 978-1-355-14073-3
+Invalid
+##modify -name="Honduras" -author="MeghanPorter"
+Invalid
+##show -author="BryanA
+
+##select 978-1-69408-668-6
+Invalid
+##modify -name="synergistic" -author="RichardPierceDDS" -keyword="Mauritius|morn|expelled" -price=409.96
+Invalid
+##passwd soEwpfYqhPQ fKM7IxjwoEa f0qXshNlzTfbxpiDxJ1pTumemCtYm
+##show -name="Masonite"
+
+##buy 978-1-70383-683-7 1
+Invalid
+##
+##buy 978-0-8194-8758-2 1
+Invalid
+##select 978-0-7127-4287-0
+Invalid
+##modify -author="GaryFarley" -keyword="civil|stratosphere"
+Invalid
+##show -ISBN=978-0-7295-2018-8
+
+##buy 978-0-
+Invalid
+##buy 978-1-922106-95-7 1
+Invalid
+##buy 978-0-393-10289-5 1
+Invalid
+##buy 978-1
+Invalid
+##show -keyword="civil"
+
+##logout
+##su NX_93hVZNLEiBtntFBqCnPmMDdO uzeP0Hq5BFHni
+##show -author="RachelChen"
+
+##show -name="ah"
+
+##logout
+##su mfy6GnzTigcL924IDpuj8ukD4W BDuCHQnnNa3WXJyUK5j
+##show -ISBN=978-1-156-94386-1
+Invalid
+##select 978-0-10-270875-2
+Invalid
+##modify -name="along" -author="GaryFarley" -keyword="Abe" -price=77.25
+Invalid
+##buy 978-1-322-11086-8 1
+Invalid
+##select 978-1-4717-1007-0
+Invalid
+##modify -name="conceit" -price=286.90
+Invalid
+##buy 978-1-5046-2437-4 1
+Invalid
+##buy 978-
+Invalid
+##buy 978-1-4139-8531-3 1
+Invalid
+##logout
+Invalid
+##su gjfkz6ZJBeTsPApKy Vc4IJGn6VtJfwNYd
+##select 978-1-85836-595-4
+Invalid
+##modify -name="impiety" -price=104.68
+Invalid
+##select 978-0-596-73498-5
+Invalid
+##modify -name="narcissist" -author="SaraJones" -keyword="expelled|mocha" -price=389.69
+Invalid
+##show -author="BeverlySimmons"
+
+##sho
+Invalid
+##show -keyword="stratosphere"
+
+##buy 978-1-75853-960-8 1
+Invalid
+##show -keyword="stratos
+
+##buy 978-1-972532-40-9 1
+Invalid
+##show -ISBN=978-0-7295-
+
+##passwd gjfkz6ZJBeTsPApKy Vc4IJGn6VtJfwNYd Zdo5kk
+##logout
+##select 978-0-355-97147-7
+Invalid
+##modify -name="nadir" -price=453.59
+Invalid
+##select 978-0-535-58760-3
+Invalid
+##modify -name="cluck" -author="ShannonBlake" -keyword="kidnapping" -price=375.62
+Invalid
+##register 7hJ_qTHXwQDt63X N0sM8ZdKRVlBE PatriciaMartin
+##select 978-1-379-55315-1
+Invalid
+##modify -name="traumatic" -author="BarbaraPerez" -pri
+Invalid
+##select 978-0-207-37941-3
+Invalid
+##modify -name="thief" -author="JasonPerez" -keyword="Abe" -price=227.34
+Invalid
+##select 978-1-206-97584-2
+Invalid
+##modify -name="perspicacious" -author="Mrs.SabrinaHowardPhD" -price=344.46
+Invalid
+##su OMNHWGjsQ APiYGAFdDunD1uUiEimLRnLhnw
+##passwd OMNHWGjsQ APiYGAFd
+Invalid
+##select 978-0-681-95993-4
+Invalid
+##modify -name="Getty" -author="Mr.ChristopherRush" -keyword="Bradley|civil" -price=403.37
+Invalid
+##show -author="KellyPrice"
+Invalid
+##buy 978-0-391-19344-4 1
+Invalid
+##logout
+Invalid
+##su CVLPX9f bpRFBVItch1zkcpkYSiE4NwAPXo
+##show -keyword="combinat
+
+##buy 978-0-797
+Invalid
+##select 978-1-84555-197-1
+Invalid
+##modify -name="conveyor" -author="JasonPerez" -keyword="Abe|eastbound|morn"
+Invalid
+##select 978-1-9793-3759-5
+Invalid
+##modify -name="polysaccharide" -author="TammySnyder" -keyword="stratosphere|Bradley|uterine" -price=162.18
+Invalid
+##select 978-0-7103-3013-0
+Invalid
+##modify -name="Spencer" -author="EricaMitchell" -keyword="betrothal|tunic|Jan" -price=183.13
+Invalid
+##show -name="conceit"
+
+##buy 978-0-07-906979-5 1
+Invalid
+##log
+##register uHuIne5yBkH5z2eQT 6Cq ChristopherParrish
+##su mh
+Invalid
+##show -keyword="eastbound"
+
+##select 978-0-583-68596-2
+Invalid
+##modify -name="Burr" -author="TylerHarris" -keyword="sudorific|Jan|mocha|Bradley" -price=59.80
+Invalid
+##buy 978-1-70383-683-7 1
+Invalid
+##select 978-0-7157-8453-2
+Invalid
+##modify -name="N
+Invalid
+##buy 978-1-66427-614-7 1
+Invalid
+##show -author="BeverlySimmons"
+
+##buy 978-0-682-39231-0 1
+Invalid
+##show -ISBN=978-0-10-270875-2
+
+##show -author="RichardPierceDDS"
+
+##logout
+##select 978-0-8075-9479-7
+Invalid
+##modify -name="viscometer" -author="AdrianLaw
+Invalid
+##register 4x6im3kuT0 6q AlexanderMontgomery
+##su 0WUpeNGU33yG8Y U9TWDyzTanBrnvUioxIIQr
+##show -name="imprecise"
+
+##select 978-0-9928163-7-7
+Invalid
+##modify -name="Baldwin" -author="JonathanHull" -keyword="cassock|morn|sudorific|stratosphere" -price=246.42
+Invalid
+##logout
+##register QtHY3JMaqAOOFI458HwLi2 2idKoXGRjdFKM MargaretPowers
+##su Qs1FQevDY3tzDQCeQaSaEIAl hw_7J7jsCH0YoqdIlV8xcj1
+##show -keyword="tunic"
+
+##select 978-0-18-071864-3
+Invalid
+##modify -na
+Invalid
+##show -ISBN=978-1-70383-683-7
+
+##buy 978-1-4041-3603-8 1
+Invalid
+##select 978-1-75271-037-9
+Invalid
+##modify -name="trite" -author="GregoryGomez" -keyword="humpty|Jan" -price=207.32
+Invalid
+##logout
+##su MWpdaAoERQD5PvjQzAvfGhbMqb bSNoi
+##passwd MWpdaAoERQD5
+Invalid
+##buy 978-1-07-967714-0 1
+Invalid
+##logout
+Invalid
+##su fy
+Invalid
+##show -name="enamel"
+Invalid
+##select 978-0-89221-711-3
+Invalid
+##modify -name="beatific" -author="HeatherGoodman" -keyword="intervene|combinate|catwalk|tunic|pursuit" -price=80.23
+Invalid
+##show -author="VeronicaTran"
+Invalid
+##buy 978-1-944459-70-3 1
+Invalid
+##select 978-1-954491-79-3
+Invalid
+##modify -name="levitate" -author="AndreaAnderson" -keyword="expelled
+Invalid
+##show -keyword="pursuit"
+Invalid
+##logout
+Invalid
+##select 978-0-441-08835-5
+Invalid
+##modify -name="dinosaur" -author="AndreaAnderson" -keyword="Bradley|conduit|vacua" -price=385.13
+Invalid
+##select 978-0-300-65534-6
+Invalid
+##modify -name="fiendish" -author="JonathanHarmon" -price=121.17
+Invalid
+##su mfy6GnzTigcL924IDpuj8ukD4W BDuCHQnnNa3WXJyUK5j
+##show -ISBN=978-1-
+Invalid
+##buy 978-1-56545-486-6 1
+Invalid
+##select 978-1-5453-4833-8
+Invalid
+##modify -name="Nora" -author="BarbaraPerez" -keyword="experiment|sudorific|Wheller" -price=104.50
+Invalid
+##logout
+Invalid
+##select 978-1-09-546657-5
+Invalid
+##modify -name="various" -author="KellyAnderson" -keyword="intervene|uterine|civil|Brillouin" -price=207.90
+Invalid
+##select 978-0-88353-795-4
+Invalid
+##modify -name="ea
+Invalid
+##register 8OO6 lOd8QBcbNsVRNeNwufWOrUkoaqOHC AlyssaPadilla
+##su PFghnHX_vDS05dlbzEH4waYWa ZYU5kLEgrHp
+Invalid
+##logout
+Invalid
+##select 978-0-931474-10-1
+Invalid
+##modify -name="sandal" -author="VeronicaTran" -keyword="cassock" -price=342.16
+Invalid
+##su N4_oqv GgtDhck24dwwUK7O6SWrbpmiSsEsb
+##show -keyword="Brillouin"
+Invalid
+##logout
+Invalid
+##register iV9P_JgChdE5NPHV3npDi VBzQyM7CDdR7u14kY4 HeidiBarron
+##select 978-1-156-94386-1
+Invalid
+##modify -name="nostalgia" -price=339.16
+Invalid
+##se
+Invalid
+##modify -name="forward" -author="KaylaKennedy" -keyword="civil|tunic|Jan|experiment|morn"
+Invalid
+##su r2r _frsAyQo7UThxmjCcI
+##show -name="freeboot"
+Invalid
+##passwd r2r _frsAyQo7UThxmjCcI 1GpThgx978DOaO8u2mFOy
+Invalid
+##buy 978-1-944459-70-3 1
+Invalid
+##select 978-1-303-10855-6
+Invalid
+##modify -name="Spanish" -author="NicolePitts" -keyword="mocha" -price=441.00
+Invalid
+##show -keyword="tunic"
+Invalid
+##select 978-0-01-428639-3
+Invalid
+##modify -author="A
+Invalid
+##select 978-1-972048-80-1
+Invalid
+##modify -name="Theodore"
+Invalid
+##select 978-0-7882-8019-1
+Invalid
+##modify -author="ChadLong" -keyword="Jan|agar|Brillouin" -price=194.11
+Invalid
+##buy 978-1-83563-251-2 1
+Invalid
+##show -ISBN=978-0-7045-1108-8
+Invalid
+##select 978-1-188-24979-5
+Invalid
+##mod
+Invalid
+##buy 978-1-4139-8531-3 1
+Invalid
+##buy 978-0-589-62284-8 1
+Invalid
+##show -ISBN=978-1-69408-668-6
+Invalid
+##buy 978-1-177-84820-6 1
+Invalid
+##buy 978-1-898942-21-4 1
+Invalid
+##show -keyword="vacua"
+Invalid
+##buy 978-0-7127-4287-0 1
+Invalid
+##buy 978-1-298-01415-3 1
+Invalid
+##select 978-1-276-93257-8
+Invalid
+##modify -keyword="uterine|kidnapping|civil|humpty"
+Invalid
+##show -name="expensive"
+Invalid
+##logout
+Invalid
+##select 978-0
+Invalid
+##modify -name="approach" -author="VeronicaTran" -keyword="humpty|Bradley|vacua" -price=53.36
+Invalid
+##su SdwJq1IdRmPH 8L
+##show -name="liturgic"
+
+##select 978-1-74082-651-8
+Invalid
+##modify -name="Topeka" -author="AndreaAnderson" -keyword="Brillouin|Mauritius"
+Invalid
+##select 978-1-913100-38-4
+Invalid
+##modify -author="MissTashaZimmerman" -price=269.13
+Invalid
+##select 978-1-299-50579-7
+Invalid
+##modify -name="eyebright" -author="AdrianLawrence" -keyword="eastbound|shoelace|sudorific" -price=254.68
+Invalid
+##buy 978-0-583-68596-2 1
+Invalid
+##buy 978-1-276-93257-8 1
+Invalid
+##show -keyword="Brillouin"
+
+##buy 978-0-217-35200-0 1
+Invalid
+##show -author="BrianMorgan"
+
+##select 978-1-66427-614-7
+Invalid
+##modify -name="bestowal" -keyword="Brillouin" -price=303.15
+Invalid
+##show -name="ninebark"
+
+##logout
+##select 978-0-7538-6677-1
+Invalid
+##modify -name="roo
+Invalid
+##regis
+Invalid
+##select 978-1-78811-868-2
+Invalid
+##modify -name="roundoff" -price=223.75
+Invalid
+##select 978-0-8347-2956-8
+Invalid
+##modify -name="Latin" -author="AngelaHerrera" -keyword="agar|uterine|penultimate" -price=93.20
+Invalid
+##select 978-1-56545-486-6
+Invalid
+##modify -author="GregoryGomez" -keyword="morn|eastbound" -price=83.52
+Invalid
+##su 0Bx TLA6CbwaYUpFr31vWp6wAgf0ijz
+##select 978-1-182-10525-7
+Invalid
+##modify -name="bodybuilder" -author="ShaneHarvey" -keyword="shoelace|Mauritius" -price=434.68
+Invalid
+##show -keyword="Jan"
+
+##logout
+##select 978-0
+Invalid
+##modify -name="sportswriting" -author="Da
+Invalid
+##select 978-1-299-50579-7
+Invalid
+##modify -name="hydrophobia" -author="NicolePitts" -keyword="morn" -price=306.05
+Invalid
+##select 978-0-7699-8803-0
+Invalid
+##modify -author="AngelaHerrera" -keyword="combinate|catwalk" -price=6.11
+Invalid
+##su 8OO6 lOd8QBcbNsVRN
+Invalid
+##buy 978-0-17-638042-7 1
+Invalid
+##select 978-1-972048-80-1
+Invalid
+##mo
+Invalid
+##show -author="JonathanHull"
+Invalid
+##show -author="JosephVazquez"
+Invalid
+##select 978-0-07-906979-5
+Invalid
+##modify -name="table" -author="JohnHenson" -keyword="shoelace|experiment|combinate"
+Invalid
+##show -keyword="Brillouin"
+Invalid
+##show -keyword="intervene"
+Invalid
+##logout
+Invalid
+##su kFzlfEIZG1FefKHqIq7PAlk4lP uiO2
+Invalid
+##select 978-0-89170-125-5
+Invalid
+##modify -name="hector" -author="
+Invalid
+##logout
+Invalid
+##register plDDONr0M9x 1vI6Lzy7NeXU1ZOMMKo SheilaWatkins
+##su CVLPX9f bpRFBVItch1zkcpkYSiE4NwAPXo
+##logout
+##su ogCH11fjd_0H KS9lxMW_2d7ay
+Invalid
+##logout
+Invalid
+##register 5ceOy zGY44CU_SdjumTQcdI7R80ai KathleenChase
+##select 978-1-03-354346-7
+Invalid
+##modify -name="savanna" -author="HeatherGoodman" -keyword="civil|Abe" -price=253.86
+Invalid
+##su JZTTvylkOjiGttIRZATgan d
+##logout
+Invalid
+##su fyEOwm_clylIPlBrd1jcpLiUeJSxf9 _JiZmJ
+##buy 978-1-343-14151-3 1
+Invalid
+##buy 978-1-61029-394-5 1
+Invalid
+##buy 978-0-622-56021-2 1
+Invalid
+##select 978-0-89170-125-5
+Invalid
+##modify -name="memory" -author="Dr.SharonPowell" -keyword="agar|humpty|Mauritius" -price=207.89
+Invalid
+##select 978-0-19-451
+Invalid
+##modify -name="speedy" -author="EricWard" -keyword="conduit" -price=231.33
+Invalid
+##buy 978-1-188-24979-5 1
+Invalid
+##logout
+##su TO QTtIzknsVMMA2sOUgt1tznvDkhdz
+##buy 978-1-398-62581-5 1
+Invalid
+##buy 978-1-4139-8531-3 1
+Invalid
+##show -keyword="intervene"
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##show -name="bimolecular"
+Invalid
+##select 978-0-540-72394-2
+Invalid
+##modify -name="oppressive" -author="SherryHorn" -keyword="Bradley|cassock" -price=250.31
+Invalid
+##select 978-1-184-73621-3
+Invalid
+##
+##logout
+Invalid
+##su ahQzz qHuTwzKjXSNQ3wo9Lf
+##show 
+Invalid
+##passwd kFzlfEIZG1FefKHqIq7PAlk4lP 230iFrV6a4L 2KnsTKHjNC
+Invalid
+##select 978-1-266-58613-2
+Invalid
+##modify -name="Conakry" -author="TylerHarris" -keyword="expelled|sudorific|kidnapping|penultimate" -price=112.06
+Invalid
+##select 978-0-10-870033-0
+Invalid
+##modify -name="pinto" -aut
+Invalid
+##buy 978-0-393-10289-5 1
+Invalid
+##logout
+Invalid
+##register 7 DMeTyRC6tlHVUzVt__yZrIchmfsH EdwardPerez
+##su VbQm8zgdcufdUXsxiOL22G d
+##show -keyword="humpty"
+
+##logout
+##su pAxOmfo BwTpWoaeEmat1
+##select 978-0-93
+Invalid
+##modify -author="KelseyMelton"
+Invalid
+##select 978-0-276-05305-4
+Invalid
+##modify -name="sixt
+Invalid
+##buy 978-0-05-845759-9 1
+Invalid
+##show -name="unidirectional"
+
+##buy 978-0-616-91636-0 1
+Invalid
+##buy 978-1-913100-38-4 1
+Invalid
+##select 978-0-00-530576-8
+Invalid
+##modify -name="Israeli" -author="Mr.ChristopherRush" -keyword="shoelace|sudorific|civil|eastbound|morn" -price=15.91
+Invalid
+##logout
+##select 978-1-274-59487-7
+Invalid
+##modify -author="DavidHenderson" -keyword="expelled|pursuit"
+Invalid
+##select 978-0-01-577201-7
+Invalid
+##modify -name="incomprehensible" -author="KelseyMelton" -keyword="catwalk|betrothal|penultimate|vacua" -price=473.05
+Invalid
+##select 978-1-253-56727-4
+Invalid
+##modify -name="sprain" -author="SaraJones" -keyword="eastbound"
+Invalid
+##su qUG osMwyHq3ILsib_3
+##logout
+Invalid
+##su pAxOmfo BwTpWoaeEmat1
+##select 978-1-5177-6226-1
+Invalid
+##modify -name="Esther" -author="BrianMorgan" -keyword="mocha|catwalk" -price=346.40
+Invalid
+##show -keyword="vacua"
+
+##buy 978-1-85836-595-4 1
+Invalid
+##show -keyword="pursuit"
+
+##passwd pAxOmfo BwTpWoaeEmat1 cRkPLh
+##select 9
+Invalid
+##modify -name="insinuate" -author="DavidPrice" -keyword="Brillouin|pursuit|uterine|kidnapping" -price=448.88
+Invalid
+##buy 978-1-58324-566-8 1
+Invalid
+##show -ISBN=978-1-898942-21-4
+
+##passwd pAxOmfo cRkPLh _T3NQDFNOLoIOyRhZL
+##logout
+##su El1F1o4xHI7oOMPZiJhjl7iN MmLnOOowDO
+##passwd El1F1o4xHI7oOMPZiJhjl7iN MmLnOOowDO J8ZT0gV_m0qZTw5OT3mCBcWZ3
+##logout
+##register BSPZpMooueFNSvqvP dPqGkJwrX_3GayMJNn9XHb4Dn TimMiller
+##select 978-0-7882-8019-1
+Invalid
+##modify -keyword="humpty" -price=386.42
+Invalid
+##select 978-0-931729-06-5
+Invalid
+##modify -name="fanatic" -author="KelseyMelton" -price=363.59
+Invalid
+##su mh5IV m
+##buy 978-1-375-67139-2 1
+Invalid
+##select 978-0-583-68596-2
+Invalid
+##modify -name="do" -keyword="Brillouin|Wheller" -price=230.50
+Invalid
+##show -author="JonathanHarmon"
+
+##buy 978-1-4593-6504-9 1
+Invalid
+##select 978-0-13-833557-1
+Invalid
+##modify -name="involution" -author="DavidPrice" -keyword="combinate|Brillouin" -price=3.28
+Invalid
+##logout
+##select 978-1-72413-479-0
+Invalid
+##modify -name="counterexample" -author="Mr.ChristopherRush" -keyword="experiment|agar|betrothal|cassock" -price=146.59
+Invalid
+##su 281K Tv_GZxwL2Nz
+##buy 978-1-4041-3603-8 1
+Invalid
+##show -name="Mozart"
+
+##buy 978-0-7979-6716-8 1
+Invalid
+##buy 978-1-70383-683-7 1
+Invalid
+##show -author="ChelseaGlenn"
+
+##buy 978-1-5046-2437-4 1
+Invalid
+##logout
+##select 978-1-85836-595-4
+Invalid
+##modify -name="hoi" -keyword="kidnapping" -price=113.56
+Invalid
+##register 8iDJdP7 3PVntpdoAfb_7j03m MartinDavis
+##su VLO9mLa48LPRQwVEiwl9 ZMRzKf4
+##show -name="plasma"
+Invalid
+##show -keyword="cassock"
+Invalid
+##show -keyword="Asilomar"
+Invalid
+##buy 978-0-18-071864-3 1
+Invalid
+##logout
+Invalid
+##su iV9P_JgChdE5NPHV3npDi VBzQyM7CDdR7u14kY4
+##show -ISBN=978-1-931687-31-7
+
+##select 978-1-5177-6226-1
+Invalid
+##modify -author="JohnHenson" -keyword="mocha|conduit" -price=417.06
+Invalid
+##buy 978-0-300-65534-6 1
+Invalid
+##show -author="JasonPerez"
+
+##buy 978-0-562-77090-0 1
+Invalid
+##logout
+##select 978-0-7882-8019-1
+Invalid
+##modify -name="Kiev" -author="TammySnyder" -keyword="Bradley|vacua|conduit|Brillouin" -price=126.52
+Invalid
+##se
+Invalid
+##modify -name="spermatozoa" -price=428.
+Invalid
+##select 978-0-19-224839-8
+Invalid
+##modify -nam
+Invalid
+##select 978-1-393-46432-7
+Invalid
+##modify -keyword="Jan|cassock"
+Invalid
+##regis
+Invalid
+##select 978-1-4635-3301-4
+Invalid
+##modify -name="tradesmen" -author="SarahAnderson" -keyword="civil" -price=436.01
+Invalid
+##su qUG osMwyHq3ILsib_3
+##buy 978
+Invalid
+##show -ISBN=978-0-300-65534-6
+Invalid
+##buy 978-1-393-4643
+Invalid
+##show -author="KellyAnderson"
+Invalid
+##select 978-0-7103-3013-0
+Invalid
+##modify -name="longstanding" -price=24.61
+Invalid
+##buy 978-0-207-37941-3 1
+Invalid
+##show -name="impiety"
+Invalid
+##show -author="EricaMitchell"
+Invalid
+##select 978-0-15-157316-5
+Invalid
+##modify -name="stirrup" -author="SarahAnderson" -keyword="sudorific|experiment|Brillouin|Bradley" -price=283.83
+Invalid
+##show -author="RachelChen"
+Invalid
+##passwd SdwJq1IdRmPH 
+Invalid
+##select 978-0-9745082-9-0
+Invalid
+##modify -name="inconsiderate" -author="SarahAnderson" -keyword="Asilomar|Bradley|experiment" -price=257.95
+Invalid
+##logout
+Invalid
+##su pEgN1KX QYoVN4WM6
+##buy 978-0-7979-6716-8 1
+Invalid
+##select 978-1-4983-3296-5
+Invalid
+##modify -name="vestigial" -author="ShaneHarvey" -keyword="combinate|Brillouin" -price=74.
+Invalid
+##select 978-1-4129-1999-9
+Invalid
+##modify -name="mound" -author="NicoleP
+Invalid
+##show -name="cauliflower"
+
+##show -author="RachelChen"
+
+##show -ISBN=978-1-03-033954-4
+
+##logout
+##register yyGjGptz6CKPykp5 wdV39RHWV62oA6aqaDmK OscarRodriguez
+##select 978-1-78811-868-2
+Invalid
+##modify -name="Hudson" -price=180.55
+Invalid
+##su gjE5_lmP606qfZSwX1g4N5CBh pO0LJT1YFfj2_9izkSHrT
+##logout
+##su
+Invalid
+##show -keyword="morn"
+Invalid
+##select
+Invalid
+##modify -author="Mrs.SabrinaHowardPhD" -price=171.79
+Invalid
+##se
+Invalid
+##modify -keyword="Asilomar|intervene|stratosphere" -price=306.54
+Invalid
+##buy 978-1-922106-95-7 1
+Invalid
+##logout
+Invalid
+##select 978-0-8194-8758-2
+Invalid
+##modify -name="compote" -author="BrianMorgan" -keyword="vacua"
+Invalid
+##register yn_77By0QmIfKIBNv0 ubLpxn ReginaReynolds
+##register Rq4jcyhC3Szk7w nLLRl AlexShaw
+##register m0g92Df8ZErL3mLRD23a yP MichelleThomas
+##register q RXkXNmx12SRo AimeeGonzalez
+##select 978-0-207-37941-3
+Invalid
+##modify -name="equivocal" -keyword="Asilomar|morn|Brillouin|humpty|expelled" -price=155.51
+Invalid
+##su soEwpfYqhPQ azVghtjhqx0dCoU
+Invalid
+##show -name="vestigial"
+Invalid
+##select 978-1-03-519448-3
+Invalid
+##modify -name="cerise" -author="AdamSalazar" -keyword="uterine|betrothal" -price=177.88
+Invalid
+##select 978-1-940791-19-7
+Invalid
+##modify -nam
+Invalid
+##logout
+Invalid
+##su 00yyfh6BhGTPOelDg 3Qa
+Invalid
+##buy 978-1-4635-3301-4 1
+Invalid
+##buy 978-1-4717-1007-0 1
+Invalid
+##show -name="flax"
+Invalid
+##select 978-0-681-95993-4
+Invalid
+##modify -name="titanate" -author="AdrianLawrence" -keyword="eastbound|vacua" -price=142.55
+Invalid
+##show -keyword="uterine"
+Invalid
+##logout
+Invalid
+##s
+Invalid
+##buy 978-0-17-638042-7 1
+Invalid
+##logout
+Invalid
+##register odNQAOa RJe_Z8hwQfjlty93Z7qgfMQq CarrieMcmahonMD
+##register By2E_hNE4wH YM51s5V4TPoG2qi94C30QUMgvMa CharlesOliver
+##register _mgDWHo2sL4Wqj3ATjcEtHvyE ZwLt02Yp MichaelWalker
+##
+##show -ISBN=978-1-55111-170-4
+Invalid
+##logout
+Invalid
+##su Yal44I
+Invalid
+##buy 978-1-931687-31-7 1
+Invalid
+##buy 978-0-9698834-5-6 1
+Invalid
+##buy 978-1-931687-31-
+Invalid
+##buy 978-0-916850-72-2 1
+Invalid
+##select 978-1-00-157171-3
+Invalid
+##modify -name="acrony
+Invalid
+##show -keyword="vacua"
+Invalid
+##select 978-0-264-54148-8
+Invalid
+##modify -name="suicidal" -author="MichaelChambers" -keyword="intervene|Bradley|penultimate|experiment|sudorific" 
+Invalid
+##show -author="JosephVazquez"
+Invalid
+##show -author="BryanAndrade"
+Invalid
+##buy 978-1-69408-668-6 1
+Invalid
+##logout
+Invalid
+##register fq jn36OSBGwmvvhgqJsPaRQ AnthonyHiggins
+##su 3YJEDQ2ZnAd t2QssKU1LQwNILVZH45xAXaXPIsR
+##buy 978-0-384-89427-3 1
+Invalid
+##select 978-1-133-38990-3
+Invalid
+##modify -name="copolymer" -author="MeghanPorter" -keyword="uterine" -price=242.18
+Invalid
+##buy 978-1-4593-6504-9 1
+Invalid
+##buy 978-0-596-73498-5 1
+Invalid
+##logout
+Invalid
+##su zSlrRvT77GjOmR7WezZ 0wh
+##logout
+##su 4mTpRnZkbLEDf1MRPsk402wXa2 M
+##buy 978-1-07-231617-6 1
+Invalid
+##show -name="intimal"
+
+##select 978-1-74082-651-8
+Invalid
+##modify -name="ketone" -author="RachelChen" -price=273.13
+Invalid
+##select 978-1-64674-559-3
+Invalid
+##modify -name="expressible" -author="AdrianLawrence" -keyword="kidnapping|morn" -price=338.71
+Invalid
+##show -keyword="uterine"
+
+##show -author="VeronicaTra
+
+##select 978-0-08-656414-6
+Invalid
+##modify
+Invalid
+##buy 978-1-274-59487-7 1
+Invalid
+##show -keyword="penultimate"
+
+##logout
+##register EvLTm r0I58qJ0c CalebBaker
+##select 978-0-562-77090-0
+Invalid
+##modify -author="AdamSal
+Invalid
+##register I9AQcnw8zVVJETtWqlPWEDvvQQNkJ snXENHkw6Bpgi9NV6_fPP3MDpiq6zG DeannaAdams
+##select 978-1-60276-446-0
+Invalid
+##modify -name="deuterium" -author="BarbaraPerez" -keyword="kidnapping|agar|Bradley|betrothal|Mauritius" -price=382.82
+Invalid
+##su BSPZpMooueFNSvqvP dPqGkJwrX_3GayMJNn9XHb4Dn
+##logout
+##select 978-1-293-82563-1
+Invalid
+##modify -name="repute" -author="AndreaAnderson" -keyword="expelled" -price=30.54
+Invalid
+##select 978-1-375-67139-2
+Invalid
+##modify -name="tide" -author="ShaneHarvey" -price=436.94
+Invalid
+##select 978-1-4138-4973-8
+Invalid
+##modify -name="Cygnus" -author="DavidHenderson" -keyword="betrothal" -price=99.09
+Invalid
+##su VLO9mLa48LPRQwVEiwl9
+Invalid
+##passwd VLO9mLa48LPRQwVEiwl9 ZMRzKf4 qyLzE61ZRGpsV8VpVrnNgSKp
+Invalid
+##logout
+Invalid
+##select 978-1-61029-394-5
+Invalid
+##modify -name="impulsive" -author="MissTashaZimmerman" -price=450.25
+Invalid
+##select 978-1-941534-80-9
+Invalid
+##modify -author="AdamSalazar" -price=441.27
+Invalid
+##select 978-0-13-595539-0
+Invalid
+##modify -name="ordain" -author="DavidHenderson" -keyword="intervene|combinate|Bradley"
+Invalid
+##register 3C7npyctUtBH6skuplSOIJihdFqh BeYb JonathanMoore
+##register 1P_4nGDWBXCm 17D_b0 Mrs.TracyMorris
+##select 978-1-343-14151-3
+Invalid
+##modify -name="ton"
+Invalid
+##su QtHY3JMaqAOOFI458HwLi2 2idKoXGRjdFKM
+##select 978-0-616-91636-0
+Invalid
+##modify -author=
+Invalid
+##show -keyword="experiment"
+
+##show -ISBN=978-0-01-428639-3
+
+##select 978-0-19-224839-8
+Invalid
+##modify -name="sink" -price=183.93
+Invalid
+##show -keyword="combinate"
+
+##logout
+##select 978-0-03-742812-1
+Invalid
+##modify -name="Ganymede" -keyword="pursuit"
+Invalid
+##su WV_XpCXUDJsXwW9TNm0TdR2hk OGEe0sgsF_I7bQ9AGObvfc
+##buy 978-0-931729-06-5 1
+Invalid
+##show -keyword="Abe"
+Invalid
+##show -keyword="uterine"
+Invalid
+##buy 978-0-616
+Invalid
+##select 978-0-355-97147-7
+Invalid
+##modify -name="pickup" -keyword="eastbound|Mauritius"
+Invalid
+##buy 978-1-4138-4973-8 1
+Invalid
+##show -aut
+Invalid
+##select 978-0-344-04842-5
+Invalid
+##modify -name="radius" -author="ShannonBlake" -keyword="Mauritius|experiment|Wheller|combinate" -price=29.84
+Invalid
+##logout
+Invalid
+##select 978-1-69408-668-6
+Invalid
+##modify -name="Thule" -author="KellyPrice" -keyword="cassock|pursuit|sudorific|Wheller|uterine"
+Invalid
+##select 978-1-03-185507-4
+Invalid
+##modify -author="KaylaKennedy" -keyword=
+Invalid
+##su E2NI fxmexvDJ
