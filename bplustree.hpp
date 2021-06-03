@@ -1107,12 +1107,7 @@ namespace sjtu {
                 f11.file.seekg(0);
                 f11.file.read(reinterpret_cast<char *>(&temp), sizeof(treebasic_info));
 
-                if (head_search>300) {
-                    node nmd;
-                    f11.read(216,nmd);
-
-                }
-
+             
                 basic.root = temp.root;
                 basic.treefile_end = temp.treefile_end;
                 basic.current_size = temp.current_size;
